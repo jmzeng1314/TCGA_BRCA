@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Nutstore/github/TCGA_BRCA/RNAseq",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

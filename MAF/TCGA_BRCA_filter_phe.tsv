@@ -1,0 +1,986 @@
+Tumor_Sample_Barcode	anatomic	ER	PR	HER2	drug	margin_status	race.demographic	gender.demographic	state.samples	sample_type_id.samples	vital_status.diagnoses	tumor_stage.diagnoses	metastatic_site_at_diagnosis
+TCGA-3C-AAAU-01A-11D-A41F-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Zoladex	Negative	white	female	live	1	alive	stage x	
+TCGA-3C-AALI-01A-11D-A41F-09	Right Upper Outer Quadrant	Positive	Positive	Positive	Poly E	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-3C-AALJ-01A-31D-A41F-09	Right	Positive	Positive	Indeterminate	Herceptin	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-3C-AALK-01A-11D-A41F-09	Right	Positive	Positive	Positive	Trastuzumab	Close	black or african american	female	live	1	alive	stage ia	
+TCGA-4H-AAAK-01A-12D-A41F-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	5-Fluorouracil	Negative	white	female	live	1	alive	stage iiia	
+TCGA-5L-AAT0-01A-12D-A41F-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Positive	white	female	live	1	alive	stage iia	
+TCGA-5L-AAT1-01A-12D-A41F-09	Left	Positive	Positive	Equivocal	Letrozol	Negative	white	female	live	1	alive	stage iv	Bone
+TCGA-5T-A9QA-01A-11D-A41F-09	Left	Positive	Negative	Equivocal	Cytoxan		black or african american	female	live	1	alive	stage iia	
+TCGA-A1-A0SD-01A-11D-A10Y-09	Left	Positive	Positive	Negative		Positive	white	female	live	1	alive	stage iia	
+TCGA-A1-A0SE-01A-11D-A099-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-A1-A0SF-01A-11D-A142-09	Left	Positive	Positive	Negative	arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-A1-A0SG-01A-11D-A142-09	Right	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-A1-A0SH-01A-11D-A099-09	Left Upper Inner Quadrant	Negative	Positive	Equivocal	TC	Negative	white	female	live	1	alive	stage iia	
+TCGA-A1-A0SI-01A-11D-A142-09	Right	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-A1-A0SJ-01A-11D-A099-09	Left	Positive	Positive	Equivocal		Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-A1-A0SK-01A-12D-A099-09	Right Upper Outer Quadrant	Negative	Negative	Negative		Positive	asian	female	live	1	dead	stage iia	
+TCGA-A1-A0SM-01A-11D-A099-09	Left	Positive	Negative	Positive		Negative	white	male	live	1	alive	stage iia	
+TCGA-A1-A0SN-01A-11D-A142-09	Left	Positive	Positive	Positive	herceptin	Negative	white	female	live	1	alive	stage iia	
+TCGA-A1-A0SO-01A-22D-A099-09	Right	Negative	Negative	Equivocal		Negative	white	female	live	1	alive	stage iib	
+TCGA-A1-A0SP-01A-11D-A099-09	Right	Negative	Negative	Negative		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A1-A0SQ-01A-21D-A142-09	Left	Positive	Positive	Negative	tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A04N-01A-11D-A10Y-09	Right				Cytoxan	Negative	white	female	live	1	alive	stage ia	
+TCGA-A2-A04P-01A-31D-A128-09	Left				GEMZAR	Positive	black or african american	female	live	1	dead	stage iiic	
+TCGA-A2-A04Q-01A-21W-A050-09	Right				CYTOXAN	Negative	white	female	live	1	alive	stage ia	
+TCGA-A2-A04R-01A-41D-A117-09	Left Upper Inner Quadrant				TAXOL	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-A2-A04T-01A-21W-A050-09	Left Upper Inner Quadrant				Cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A04U-01A-11D-A10Y-09	Right				Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A04V-01A-21W-A050-09	Right				EXEMESTANE	Negative	white	female	live	1	dead	stage iia	
+TCGA-A2-A04W-01A-31D-A10Y-09	Right Upper Outer Quadrant				Herceptin	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A04X-01A-21W-A050-09	Left				TAMOXIFEN	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A04Y-01A-21W-A050-09	Right Upper Outer Quadrant				Arimidex	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A0CK-01A-11D-A228-09	Right	Positive	Positive	Negative	E-75	Positive	white	female	live	1	alive	stage iiia	
+TCGA-A2-A0CL-01A-11D-A10Y-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Gemcitabine	Positive	black or african american	female	live	1	alive	stage iiia	
+TCGA-A2-A0CM-01A-31W-A050-09	Left				Docetaxel	Negative	black or african american	female	live	1	dead	stage iia	
+TCGA-A2-A0CP-01A-11W-A050-09	Right	Positive	Positive		Anastrozole	Negative	white	female	live	1	alive	stage ia	
+TCGA-A2-A0CQ-01A-21W-A050-09	Right	Positive	Positive	Equivocal	AE-37	Positive	black or african american	female	live	1	alive	stage ia	
+TCGA-A2-A0CR-01A-11D-A228-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Anastrazole	Close	asian	female	live	1	alive	stage iib	
+TCGA-A2-A0CS-01A-11D-A10Y-09	Left	Positive	Positive	Equivocal	Anastrozole	Positive	white	female	live	1	dead	stage iv	Other, specify
+TCGA-A2-A0CT-01A-31W-A071-09	Right Upper Outer Quadrant	Positive	Negative	Equivocal	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0CU-01A-12W-A050-09	Right Lower Outer Quadrant	Positive	Positive	Equivocal	Tamoxifen	Close	white	female	live	1	dead	stage iia	
+TCGA-A2-A0CV-01A-31D-A10Y-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Adriamycin	Negative	asian	female	live	1	alive	stage iib	
+TCGA-A2-A0CW-01A-21D-A10Y-09	Right	Positive	Positive	Equivocal	Anastrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A0CX-01A-21W-A019-09	Left	Positive	Negative	Positive	Herceptin	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0D0-01A-11W-A019-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Docetaxel	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A2-A0D1-01A-11W-A050-09	Left Lower Inner Quadrant	Negative	Negative	Positive	Taxotere	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0D2-01A-21W-A050-09	Left Lower Outer Quadrant	Negative	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0D3-01A-11D-A10Y-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Herceptin	Negative	white	female	live	1	alive	stage ia	
+TCGA-A2-A0D4-01A-11W-A019-09	Left	Positive	Positive	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-A2-A0EM-01A-11W-A050-09	Right Upper Inner Quadrant	Positive	Positive		Tamoxifen	Negative	white	female	live	1	alive	stage ia	
+TCGA-A2-A0EN-01A-13D-A099-09	Right	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0EO-01A-11W-A050-09	Left	Positive	Positive	Negative	E-75	Close	white	female	live	1	alive	stage ia	
+TCGA-A2-A0EP-01A-52D-A22X-09	Right Lower Inner Quadrant	Positive	Negative	Negative	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-A2-A0EQ-01A-11W-A050-09	Left	Negative	Negative	Positive	AE-37	Positive	black or african american	female	live	1	alive	stage iia	
+TCGA-A2-A0ER-01A-21W-A050-09	Right Lower Inner Quadrant	Positive	Positive	Equivocal	E-75	Positive	white	female	live	1	alive	stage ib	
+TCGA-A2-A0ES-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Exemestane	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0ET-01A-31D-A045-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Anastrozole	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A0EU-01A-22W-A071-09	Right Lower Outer Quadrant	Positive	Positive	Negative		Positive	white	female	live	1	alive	stage ia	
+TCGA-A2-A0EV-01A-11W-A050-09	Left	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-A2-A0EW-01A-21D-A10Y-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Doxorubicin Liposome	Positive	white	female	live	1	dead	stage iiic	
+TCGA-A2-A0EX-01A-21W-A050-09	Left Upper Outer Quadrant				Tamoxifen	Positive	white	female	live	1	alive	stage iib	
+TCGA-A2-A0EY-01A-11W-A050-09	Right Upper Outer Quadrant	Positive	Negative	Positive	Herceptin	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A0ST-01A-12D-A099-09	Right Upper Outer Quadrant	Negative	Negative		Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0SU-01A-11D-A099-09	Left	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0SV-01A-11D-A099-09	Right				Xeloda	Positive	white	female	live	1	dead	stage iv	Bone
+TCGA-A2-A0SW-01A-11D-A099-09	Right				Tamoxifen	Negative	white	female	live	1	dead	stage iv	Liver
+TCGA-A2-A0SX-01A-12D-A099-09	Left Upper Inner Quadrant	Negative	Negative	Negative	Xeloda	Positive	white	female	live	1	alive	stage ia	
+TCGA-A2-A0SY-01A-31D-A099-09	Left Upper Outer Quadrant	Positive	Positive		Adriamycin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A0T0-01A-22D-A099-09	Left Lower Outer Quadrant	Negative	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A0T1-01A-21D-A099-09	Right Upper Outer Quadrant	Negative	Negative	Positive	Taxotere	Negative	american indian or alaska native	female	live	1	alive	stage iiic	
+TCGA-A2-A0T2-01A-11W-A097-09	Right				Xeloda	Close	white	female	live	1	dead	stage iv	Liver
+TCGA-A2-A0T3-01A-21D-A10Y-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Adriamycin	Positive	white	female	live	1	alive	stage ib	
+TCGA-A2-A0T4-01A-31D-A099-09	Right Upper Inner Quadrant	Positive	Positive	Equivocal	Femara	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0T5-01A-21D-A099-09	Left	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0T6-01A-11D-A099-09	Left	Positive	Positive	Negative	Adriamycin	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A0T7-01A-21D-A099-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Adriamycin	Positive	white	female	live	1	alive	stage iia	
+TCGA-A2-A0YC-01A-11D-A117-09	Right Upper Inner Quadrant	Positive	Positive		Arimidex	Close	white	female	live	1	alive	stage iib	
+TCGA-A2-A0YD-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Positive		Arimidex	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A0YE-01A-11D-A10G-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Taxotere	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A0YF-01A-21D-A10G-09	Right	Positive	Negative	Negative	Arimidex	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-A2-A0YG-01A-21D-A10G-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Arimidex	Negative	white	female	live	1	alive	stage iiic	
+TCGA-A2-A0YH-01A-11D-A10G-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Adriamycin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A0YI-01A-31D-A10M-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Femara	Negative	white	female	live	1	alive	stage i	
+TCGA-A2-A0YJ-01A-11D-A10G-09	Left	Positive	Negative	Negative	Taxotere	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A0YK-01A-22D-A117-09	Left Lower Outer Quadrant	Positive	Negative	Negative	Cytoxan	Close	white	female	live	1	alive	stage iia	
+TCGA-A2-A0YL-01A-21D-A10G-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A0YM-01A-11D-A10G-09	Left Upper Outer Quadrant	Negative	Negative			Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A0YT-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Negative		Arimidex	Negative	white	female	live	1	dead	stage iiib	
+TCGA-A2-A1FV-01A-11D-A13L-09	Left	Positive	Positive	Negative	Cyclophosphamide	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A1FW-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Femara	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A1FX-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Positive		Taxotere	Positive	white	female	live	1	alive	stage iiia	
+TCGA-A2-A1FZ-01A-51D-A17G-09	Right	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A1G0-01A-11D-A13L-09	Left Upper Inner Quadrant	Positive	Positive	Equivocal	Taxotere	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A1G1-01A-21D-A13L-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal		Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A1G4-01A-11D-A13L-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A1G6-01A-11D-A13L-09	Right	Negative	Negative	Negative	Adriamycin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A259-01A-11D-A16D-09	Left	Positive	Positive	Negative	Arimidex	Close	black or african american	female	live	1	alive	stage i	
+TCGA-A2-A25A-01A-12D-A16D-09	Left Upper Inner Quadrant	Positive	Positive	Equivocal	Taxol	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A25B-01A-11D-A167-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Tamoxifen	Close	black or african american	female	live	1	alive	stage iib	
+TCGA-A2-A25C-01A-11D-A167-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Femara	Negative	white	female	live	1	alive	stage iib	
+TCGA-A2-A25D-01A-12D-A16D-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Tamoxifen	Positive	white	female	live	1	alive	stage iiic	
+TCGA-A2-A25E-01A-11D-A167-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Anastrozole	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-A2-A25F-01A-11D-A167-09	Right Upper Outer Quadrant	Negative	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A3KD-01A-12D-A20S-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Taxotere	Positive	white	female	live	1	alive	stage iiia	
+TCGA-A2-A3XT-01A-11D-A22X-09	Left	Negative	Negative	Negative	Docetaxel	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-A2-A3XU-01A-12D-A22X-09	Left	Negative	Negative		Xeloda	Negative	black or african american	female	live	1	dead	stage iib	
+TCGA-A2-A3XV-01A-21D-A23C-09	Right	Positive	Negative	Equivocal	Tamoxifen	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A2-A3XW-01A-11D-A23C-09	Right	Positive	Negative	Negative	Tamoxifen	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-A2-A3XX-01A-21D-A23C-09	Left Lower Outer Quadrant	Negative	Negative	Negative	Paclitaxel	Negative	black or african american	female	live	1	dead	stage iia	
+TCGA-A2-A3XZ-01A-42D-A23C-09	Left Upper Outer Quadrant	Negative	Negative	Positive	Trastuzumab	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-A2-A3Y0-01A-11D-A23C-09	Left Upper Outer Quadrant	Positive	Negative	Negative	Tamoxifen	Close	black or african american	female	live	1	alive	stage iib	
+TCGA-A2-A4S1-01A-21D-A25Q-09	Right Upper Outer Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-A2-A4S2-01A-12D-A25Q-09	Right	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A2-A4S3-01A-21D-A25Q-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-A7-A0CD-01A-11W-A019-09	Left				Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-A7-A0CE-01A-11W-A019-09	Left				Taxol	Negative	white	female	live	1	alive	stage iia	
+TCGA-A7-A0CG-01A-11W-A019-09	Right					Close	white	female	live	1	alive	stage iia	
+TCGA-A7-A0CJ-01A-21W-A019-09	Left				Arimidex	Positive	white	female	live	1	alive	stage iia	
+TCGA-A7-A0D9-01A-31W-A071-09	Left				Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-A7-A0DA-01A-31D-A10Y-09	Left Lower Outer Quadrant				Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-A7-A0DB-01A-11D-A272-09	Right				Arimidex	Close	white	female	live	1	alive	stage iia	
+TCGA-A7-A13D-01A-13D-A272-09	Right Upper Outer Quadrant				Cytoxan	Close	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A13E-01A-11D-A272-09	Left Upper Outer Quadrant				Anastrozole	Negative	white	female	live	1	dead	stage iib	
+TCGA-A7-A13F-01A-11D-A12Q-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A7-A13G-01A-11D-A13L-09	Left	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-A7-A26E-01A-11D-A272-09	Left	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iiia	
+TCGA-A7-A26F-01A-21D-A167-09	Left	Negative	Negative	Equivocal	Cytoxan	Close	white	female	live	1	alive	stage ia	
+TCGA-A7-A26G-01A-21D-A167-09	Right	Negative	Negative	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A26H-01A-11D-A167-09	Left	Positive	Negative	Equivocal	Anastrozole	Negative	white	female	live	1	alive	stage iia	
+TCGA-A7-A26I-01A-11D-A167-09	Left	Negative	Negative	Equivocal	Cytoxan	Close	white	female	live	1	alive	stage iia	
+TCGA-A7-A26J-01A-11D-A272-09	Left	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-A7-A2KD-01A-31D-A21Q-09	Right	Positive	Positive	Positive	Herceptin	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-A7-A3RF-01A-11D-A228-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Positive	white	female	live	1	alive	stage iia	
+TCGA-A7-A425-01A-11D-A243-09	Right	Positive	Positive	Indeterminate	Arimidex	Negative	white	female	live	1	alive	stage iiic	
+TCGA-A7-A4SC-01A-12D-A25Q-09	Right Upper Outer Quadrant	Positive	Negative	Equivocal	TAMOXIFEN	Negative	white	female	live	1	alive	stage iib	
+TCGA-A7-A4SD-01A-11D-A25Q-09	Right	Negative	Negative	Equivocal	Cytoxan	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A4SE-01A-11D-A25Q-09	Left	Negative	Negative	Negative	Taxol	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A56D-01A-11D-A27P-09	Left Lower Inner Quadrant	Positive	Positive	Negative	Arimidex	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A5ZW-01A-12D-A29N-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A5ZX-01A-12D-A29N-09	Left	Positive	Positive	Negative	Tamoxifen		white	female	live	1	alive	stage iiic	
+TCGA-A7-A6VV-01A-22D-A33E-09	Right	Negative	Negative	Negative	Taxotere	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A6VW-01A-21D-A33E-09	Left	Negative	Negative	Negative	Cyclophosphamide	Close	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A6VX-01A-12D-A33E-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Anastrazole	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-A7-A6VY-01A-12D-A33E-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Paclitaxel	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-A8-A06O-01A-11W-A019-09	Left	Positive	Positive	Negative	Letrozole	Negative	not reported	female	live	1	alive	stage i	
+TCGA-A8-A06P-01A-11W-A019-09	Right	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A06Q-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A06R-01A-11D-A015-09	Right Upper Outer Quadrant	Positive	Negative	Positive	Tamoxifen	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A06T-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Anastrozole	Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A06U-01A-11W-A019-09	Right Upper Outer Quadrant	Positive	Positive	Positive		Negative	not reported	female	live	1	dead	stage iib	
+TCGA-A8-A06X-01A-21W-A019-09	Right Upper Outer Quadrant	Positive	Negative	Positive		Negative	not reported	female	live	1	dead	stage iib	
+TCGA-A8-A06Y-01A-21W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A06Z-01A-11W-A019-09	Right Upper Outer Quadrant	Positive	Positive	Negative			not reported	female	live	1	alive	stage iib	
+TCGA-A8-A075-01A-11D-A099-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Zoledronic acid	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A076-01A-21W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Anastrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A079-01A-21W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Cyclophosphamide	Negative	not reported	female	live	1	alive	stage iiib	
+TCGA-A8-A07B-01A-11W-A019-09	Left Lower Outer Quadrant	Positive	Positive	Positive		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A07F-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A07G-01A-11W-A050-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Letrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A07I-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Negative	Positive	Trastuzumab	Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A07J-01A-11W-A019-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A07L-01A-11W-A019-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A07O-01A-11W-A019-09	Right Upper Outer Quadrant	Negative	Negative	Negative		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A07P-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Anastrozole	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A07U-01A-11W-A050-09	Right Upper Outer Quadrant	Negative	Positive	Negative	Docetaxel	Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A07W-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Positive	not reported	female	live	1	alive	stage iv	
+TCGA-A8-A07Z-01A-11W-A019-09	Left	Positive	Positive	Negative	Exemestane	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A081-01A-11W-A019-09	Right	Positive	Positive	Negative		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A082-01A-11W-A019-09	Right	Positive	Positive	Negative	Exemestane	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A083-01A-21W-A019-09	Left	Positive	Positive	Negative		Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A085-01A-11W-A019-09	Left	Positive	Positive	Negative	Tamoxifen	Negative	not reported	male	live	1	alive	stage iib	
+TCGA-A8-A08B-01A-11W-A019-09	Right Upper Inner Quadrant	Positive	Negative	Positive	Letrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A08C-01A-11W-A019-09	Left Upper Inner Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A08F-01A-11W-A019-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Letrozole	Negative	not reported	female	live	1	alive	stage iiic	
+TCGA-A8-A08G-01A-11W-A019-09	Left Upper Inner Quadrant	Positive	Positive	Positive	Exemestane	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A08H-01A-21W-A019-09	Left Upper Inner Quadrant	Positive	Positive	Positive		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A08J-01A-11W-A019-09	Right	Positive	Negative	Negative		Positive	not reported	female	live	1	dead	stage iv	
+TCGA-A8-A08L-01A-11W-A019-09	Left	Positive	Negative	Negative		Negative	not reported	female	live	1	dead	stage iiia	
+TCGA-A8-A08O-01A-21W-A071-09	Right	Positive	Positive	Negative	Ibandronate	Positive	not reported	female	live	1	alive	stage iv	
+TCGA-A8-A08P-01A-11W-A019-09	Right	Positive	Positive	Positive	Trastuzumab	Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A08R-01A-11W-A050-09	Left	Negative	Negative	Negative		Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A08S-01A-11W-A050-09	Left	Positive	Positive	Positive	Anastrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A08T-01A-21W-A019-09	Right	Positive	Positive	Positive		Positive	not reported	female	live	1	dead	stage iv	
+TCGA-A8-A08X-01A-21W-A019-09	Left	Negative	Negative	Positive	Tamoxifen	Negative	not reported	female	live	1	alive	stage iiic	
+TCGA-A8-A08Z-01A-21W-A019-09	Left	Positive	Positive	Negative		Negative	not reported	female	live	1	alive	not reported	
+TCGA-A8-A090-01A-11W-A019-09	Right	Positive	Positive	Positive		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A091-01A-11W-A019-09	Right	Positive	Negative	Negative	Pamidronate	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A092-01A-11W-A019-09	Left	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iiia	
+TCGA-A8-A093-01A-11W-A019-09	Right	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A094-01A-11W-A019-09	Left	Positive	Negative	Negative		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A095-01A-11W-A019-09	Left	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage i	
+TCGA-A8-A096-01A-11W-A019-09	Right	Positive	Positive	Negative		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A097-01A-11W-A050-09	Left	Positive	Positive	Positive	Tamoxifen	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A099-01A-11W-A019-09	Right	Positive	Positive	Positive	Exemestane		not reported	female	live	1	alive	stage x	
+TCGA-A8-A09A-01A-11W-A019-09	Left	Positive	Positive	Negative	Tamoxifen	Positive	not reported	female	live	1	alive	stage x	
+TCGA-A8-A09B-01A-11W-A019-09	Left	Positive	Positive	Negative	Anastrozole	Negative	not reported	female	live	1	alive	stage iiib	
+TCGA-A8-A09C-01A-11W-A019-09	Right	Positive	Positive	Negative			not reported	female	live	1	alive	stage x	
+TCGA-A8-A09D-01A-11W-A019-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A09E-01A-11W-A019-09	Left Lower Outer Quadrant	Positive	Positive	Positive	Anastrozole	Positive	not reported	female	live	1	alive	stage iiib	
+TCGA-A8-A09G-01A-21W-A019-09	Right Lower Outer Quadrant	Positive	Negative	Positive		Negative	not reported	female	live	1	alive	stage iiic	
+TCGA-A8-A09I-01A-22W-A050-09	Right Lower Outer Quadrant	Positive	Positive	Positive	Anastrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A09K-01A-11W-A019-09	Left Lower Outer Quadrant	Positive	Positive	Negative		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A09M-01A-11W-A019-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Exemestane	Negative	not reported	female	live	1	alive	stage iiic	
+TCGA-A8-A09N-01A-11W-A019-09	Right Lower Outer Quadrant	Positive	Positive	Positive		Negative	not reported	female	live	1	alive	stage iiic	
+TCGA-A8-A09Q-01A-11W-A019-09	Left Lower Inner Quadrant	Positive	Positive	Negative	Anastrozole	Positive	not reported	female	live	1	alive	stage iiib	
+TCGA-A8-A09T-01A-11W-A019-09	Left	Positive	Positive	Negative	Anastrozole	Negative	not reported	female	live	1	alive	not reported	
+TCGA-A8-A09V-01A-11D-A045-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A09W-01A-11W-A019-09	Right Upper Inner Quadrant	Positive	Positive	Negative			not reported	female	live	1	alive	stage iiib	
+TCGA-A8-A09X-01A-11W-A019-09	Left Upper Inner Quadrant	Negative	Negative	Negative			not reported	female	live	1	dead	stage iiic	
+TCGA-A8-A09Z-01A-11W-A019-09	Right	Positive	Negative	Negative		Positive	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A0A1-01A-11W-A019-09	Right	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A0A2-01A-11W-A050-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A0A4-01A-11W-A019-09	Left	Positive	Positive	Negative	Letrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A0A6-01A-12W-A071-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Zoledronic acid	Negative	not reported	female	live	1	alive	stage iiic	
+TCGA-A8-A0A7-01A-11W-A019-09	Right Upper Outer Quadrant	Negative	Negative	Positive		Negative	not reported	female	live	1	alive	stage iib	
+TCGA-A8-A0A9-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A0AB-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-A8-A0AD-01A-11W-A071-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	not reported	female	live	1	alive	stage i	
+TCGA-AC-A23C-01A-12D-A167-09	Left	Positive	Positive	Positive	Chemo, NOS	Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A23E-01A-11D-A159-09	Right	Positive	Positive		Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A23H-01A-11D-A159-09	Right Lower Inner Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	dead	stage iia	
+TCGA-AC-A2B8-01A-11D-A17D-09	Right	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A2BK-01A-11D-A21Q-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Avastin	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-AC-A2BM-01A-11D-A21Q-09	Left Upper Inner Quadrant	Positive	Positive			Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-AC-A2FB-01A-11D-A17D-09	Left Upper Inner Quadrant	Positive	Positive	Positive	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-AC-A2FF-01A-11D-A17D-09	Right	Positive	Positive		Tamoxifen	Negative	asian	female	live	1	alive	stage iib	
+TCGA-AC-A2FG-01A-11D-A17D-09	Left Upper Outer Quadrant	Positive	Negative		Arimidex	Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A2FO-01A-11D-A17W-09	Left Upper Outer Quadrant	Positive	Negative	Negative	Hormone, NOS	Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A2QH-01A-11D-A18P-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Aloxi	Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A3HN-01A-11D-A20S-09	Left Upper Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A3OD-01A-11D-A21Q-09	Left	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A3QP-01A-11D-A22X-09	Right	Positive	Positive	Equivocal	Femara	Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A3QQ-01A-11D-A228-09	Right	Positive	Positive	Positive		Close	white	female	live	1	alive	stage ia	
+TCGA-AC-A3W5-01A-11D-A228-09	Right	Positive	Positive		Letrozole	Close	black or african american	female	live	1	alive	stage iia	
+TCGA-AC-A3YI-01A-21D-A23C-09	Right	Positive	Positive	Positive	5-FU	Negative	white	female	live	1	alive	stage iiic	
+TCGA-AC-A3YJ-01A-11D-A22X-09	Right	Positive	Positive		Femara	Negative	white	female	live	1	alive	stage iia	
+TCGA-AC-A4ZE-01A-11D-A41F-09	Right Lower Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A5EH-01A-11D-A28B-09	Left Upper Outer Quadrant	Positive	Negative	Negative		Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-AC-A5EI-01A-11D-A27P-09	Right Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ib	
+TCGA-AC-A5XS-01A-11D-A29N-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Femara	Negative	white	female	live	1	alive	stage iia	
+TCGA-AC-A5XU-01A-11D-A28B-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Letrozole	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-AC-A62V-01A-11D-A31U-09	Right Lower Outer Quadrant	Positive	Positive		Paclitaxel	Negative	black or african american	male	live	1	dead	stage iv	Bone
+TCGA-AC-A62X-01A-11D-A29N-09	Left Upper Inner Quadrant	Positive	Negative			Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-AC-A62Y-01A-11D-A29N-09	Right	Positive	Positive	Negative		Positive	white	female	live	1	alive	stage iib	
+TCGA-AC-A6IV-01A-12D-A33E-09	Right	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A6IW-01A-12D-A33E-09	Left Upper Outer Quadrant	Negative	Negative	Negative		Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-AC-A6IX-01A-12D-A32I-09	Left Upper Outer Quadrant	Positive	Positive			Negative	white	female	live	1	alive	stage iiic	
+TCGA-AC-A6NO-01A-12D-A33E-09	Right	Positive	Positive	Negative		Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-AC-A7VB-01A-11D-A351-09	Right Lower Outer Quadrant	Positive	Negative			Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-AC-A7VC-01A-11D-A351-09	Left	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-AC-A8OP-01A-11D-A36J-09	Right Lower Inner Quadrant	Positive	Positive	Indeterminate		Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-AC-A8OQ-01A-11D-A41F-09	Right Upper Outer Quadrant	Negative	Negative	Indeterminate		Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-AC-A8OR-01A-21D-A41F-09	Left	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-AC-A8OS-01A-12D-A41F-09	Right Upper Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A03X-01A-21W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A03Y-01A-21W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A041-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	alive	stage iib	
+TCGA-AN-A046-01A-21W-A050-09	Right Lower Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A049-01A-21W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Positive	white	female	live	1	alive	stage iia	
+TCGA-AN-A04A-01A-21W-A050-09	Left Lower Outer Quadrant	Positive	Positive	Negative		Positive	white	female	live	1	alive	stage iiia	
+TCGA-AN-A04C-01A-21W-A050-09	Left Upper Outer Quadrant	Negative	Negative	Positive		Positive	white	female	live	1	alive	stage iib	
+TCGA-AN-A04D-01A-21W-A050-09	Left Upper Outer Quadrant	Negative	Negative	Negative		Positive	white	female	live	1	alive	stage iib	
+TCGA-AN-A0AJ-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iib	
+TCGA-AN-A0AK-01A-21W-A019-09	Left Upper Outer Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0AL-01A-11W-A019-09	Left Lower Outer Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iiib	
+TCGA-AN-A0AM-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0AR-01A-11W-A019-09	Right Upper Inner Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0AS-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0AT-01A-11D-A045-09	Right Upper Inner Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0FD-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0FF-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-AN-A0FJ-01A-11W-A019-09	Left Upper Outer Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	alive	stage iv	
+TCGA-AN-A0FK-01A-11W-A050-09	Right Lower Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iiib	
+TCGA-AN-A0FL-01A-11W-A050-09	Left Upper Inner Quadrant	Negative	Negative	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0FN-01A-11W-A050-09	Right Lower Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage ia	
+TCGA-AN-A0FS-01A-11W-A050-09	Right Lower Outer Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	alive	stage ia	
+TCGA-AN-A0FT-01A-11W-A050-09	Right Lower Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iib	
+TCGA-AN-A0FV-01A-11W-A019-09	Right Upper Outer Quadrant	Negative	Negative	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0FW-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Indeterminate	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0FX-01A-11W-A050-09	Left Upper Outer Quadrant	Negative	Negative	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0FY-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-AN-A0FZ-01A-11W-A050-09	Left Upper Outer Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0G0-01A-11W-A050-09	Right Upper Inner Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0XN-01A-21D-A10G-09	Right Upper Inner Quadrant	Negative	Positive	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0XO-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0XP-01A-11D-A117-09	Right Upper Inner Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0XR-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0XS-01A-22D-A10G-09	Left Upper Outer Quadrant	Negative	Positive	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0XT-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0XU-01A-11D-A10G-09	Left Upper Outer Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-AN-A0XV-01A-11D-A10G-09	Right Upper Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AN-A0XW-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iiia	
+TCGA-AO-A03L-01A-41W-A071-09	Right				Lupron	Negative	asian	female	live	1	alive	stage iiia	
+TCGA-AO-A03O-01A-11W-A019-09	Right				DOXORUBICIN	Negative	black or african american	female	live	1	dead	stage iia	
+TCGA-AO-A03P-01A-11W-A019-09	Right				FULVESTRANT	Close	black or african american	female	live	1	dead	stage iib	
+TCGA-AO-A03R-01A-21W-A050-09	Left				DOXORUBICIN	Negative	white	female	live	1	alive	stage iib	
+TCGA-AO-A03T-01A-21W-A050-09	Left				LUPRON	Negative	white	female	live	1	alive	stage iib	
+TCGA-AO-A03V-01A-11D-A10Y-09	Left				Tamoxifen	Negative	white	female	live	1	alive	stage i	
+TCGA-AO-A0J2-01A-11W-A050-09	Left				PACLITAXEL	Negative	white	female	live	1	alive	stage ia	
+TCGA-AO-A0J3-01A-11W-A050-09	Right				METHOTREXATE	Negative	white	female	live	1	alive	stage iib	
+TCGA-AO-A0J4-01A-11W-A050-09	Left				Doxorubicin	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-AO-A0J5-01A-11W-A050-09	Right				Femara (Letrozole)	Close	white	female	live	1	dead	stage iv	Liver
+TCGA-AO-A0J6-01A-11W-A050-09	Left				DOXORUBICIN	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A0J7-01A-11W-A050-09	Left				PACLITAXEL	Negative	white	female	live	1	alive	stage iib	
+TCGA-AO-A0J8-01A-21D-A045-09	Right				METHOTREXATE	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A0J9-01A-11W-A050-09	Right				AROMASIN (EXEMESTANE)	Positive	white	female	live	1	alive	stage iiic	
+TCGA-AO-A0JA-01A-11W-A071-09	Right				PACLITAXEL	Negative	black or african american	female	live	1	alive	stage iiic	
+TCGA-AO-A0JB-01A-11W-A071-09	Left				TAMOXIFEN	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AO-A0JC-01A-11W-A071-09	Right				METHOTREXATE	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A0JD-01A-11W-A071-09	Left				DOXORUBICIN	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AO-A0JE-01A-11W-A071-09	Right				DOXORUBICIN	Positive	black or african american	female	live	1	alive	stage iiia	
+TCGA-AO-A0JF-01A-11W-A071-09	Left				CYCLOPHOSPHAMIDE	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A0JG-01A-31D-A099-09	Right				DOXORUBICIN	Close	white	female	live	1	alive	stage iiia	
+TCGA-AO-A0JI-01A-21W-A100-09	Left				Paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A0JJ-01A-11W-A071-09	Left				Letrozole (Femara)	Negative	white	female	live	1	alive	stage iib	
+TCGA-AO-A0JM-01A-21W-A071-09	Right				PACLITAXEL	Negative	not reported	female	live	1	alive	stage iib	
+TCGA-AO-A124-01A-11D-A10M-09	Left				Paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A128-01A-11D-A10M-09	Right				Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A12A-01A-21D-A10Y-09	Right				Cyclophosphamide	Close	white	female	live	1	alive	stage iia	
+TCGA-AO-A12D-01A-11D-A10Y-09	Left				Albumin-Bound Paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A12F-01A-11D-A10Y-09	Right				Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A12H-01A-11D-A10Y-09	Right				Arimidex (Anastrozole)	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-AO-A1KO-01A-31D-A188-09	Left				Doxorubicin	Negative	white	female	live	1	alive	stage iib	
+TCGA-AO-A1KP-01A-11D-A13L-09	Left				Methotrexate	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A1KR-01A-12D-A142-09	Right Upper Inner Quadrant	Negative	Negative	Negative	cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A1KS-01A-11D-A13L-09	Left				Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-AO-A1KT-01A-11D-A13L-09	Left				Cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-AQ-A04H-01B-11D-A10M-09	Left Lower Inner Quadrant				Herceptin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AQ-A04J-01A-02W-A050-09	Right Upper Outer Quadrant				Taxol	Negative	white	female	live	1	alive	stage iia	
+TCGA-AQ-A0Y5-01A-11D-A14K-09	Right				Herceptin	Negative	white	female	live	1	dead	stage iiia	
+TCGA-AQ-A1H2-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Positive	Indeterminate	Arimidex	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AQ-A1H3-01A-31D-A13L-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iiic	
+TCGA-AQ-A54O-01A-11D-A25Q-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	black or african american	male	live	1	alive	stage iia	
+TCGA-AQ-A7U7-01A-22D-A351-09	Left	Positive	Positive	Negative	Letrozole	Negative	white	female	live	1	dead	stage iiia	
+TCGA-AR-A0TP-01A-11D-A099-09	Left Upper Inner Quadrant	Positive	Negative	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A0TQ-01A-11D-A099-09	Right Upper Outer Quadrant	Positive	Negative	Equivocal	Exemestane	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AR-A0TR-01A-11D-A099-09	Left	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	dead	stage iib	
+TCGA-AR-A0TS-01A-11D-A10Y-09	Right	Negative	Negative	Negative	Paclitaxel	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A0TT-01A-31D-A099-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-AR-A0TU-01A-31D-A10G-09	Right Lower Outer Quadrant	Negative	Negative	Negative	Docetaxel	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-AR-A0TV-01A-21D-A099-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-AR-A0TW-01A-11D-A099-09	Right Lower Outer Quadrant	Positive	Positive	Equivocal	Doxorubicin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AR-A0TX-01A-11D-A099-09	Left Upper Outer Quadrant	Positive	Positive	Positive		Negative	not reported	female	live	1	alive	stage iia	
+TCGA-AR-A0TY-01A-12W-A12T-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Anastrozole	Negative	white	female	live	1	dead	stage iia	
+TCGA-AR-A0TZ-01A-12D-A099-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	dead	not reported	Bone
+TCGA-AR-A0U0-01A-11D-A10G-09	Left Lower Inner Quadrant	Negative	Negative			Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A0U1-01A-11D-A10Y-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Paclitaxel	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A0U2-01A-11D-A10G-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Exemestane	Negative	white	female	live	1	dead	stage iiia	Liver
+TCGA-AR-A0U3-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A1AH-01A-11D-A12B-09	Right Upper Inner Quadrant	Positive	Negative	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A1AI-01A-11D-A12Q-09	Left Upper Outer Quadrant	Negative	Negative	Equivocal	Paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A1AJ-01A-21D-A12Q-09	Right	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A1AK-01A-21D-A12Q-09	Right	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A1AL-01A-21D-A12Q-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Letrozole	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AR-A1AN-01A-11D-A12Q-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A1AO-01A-11D-A12Q-09	Left Upper Inner Quadrant	Positive	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A1AP-01A-11D-A12Q-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Anastrozole	Positive	white	female	live	1	alive	stage i	
+TCGA-AR-A1AQ-01A-11D-A12Q-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	Paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A1AR-01A-31D-A135-09	Left Lower Inner Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	dead	stage iiia	
+TCGA-AR-A1AS-01A-11D-A12Q-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Doxorubicin	Negative	asian	female	live	1	alive	stage iib	
+TCGA-AR-A1AT-01A-11D-A12Q-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Trastuzumab	Negative	white	female	live	1	dead	stage iia	
+TCGA-AR-A1AU-01A-11D-A12Q-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AR-A1AV-01A-21D-A12Q-09	Left	Positive	Positive	Negative	Doxorubicin	Negative	white	male	live	1	alive	stage iib	
+TCGA-AR-A1AW-01A-21D-A12Q-09	Left Upper Inner Quadrant	Positive	Positive	Equivocal	Anastrozole	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A1AX-01A-11D-A12Q-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Cytoxan	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A1AY-01A-21D-A12Q-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A24H-01A-11D-A167-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A24K-01A-11D-A167-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A24L-01A-11D-A167-09	Right	Positive	Positive	Equivocal	Doxorubicin	Negative	white	female	live	1	dead	stage iib	
+TCGA-AR-A24M-01A-11D-A167-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Paclitaxel	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AR-A24N-01A-11D-A167-09	Left Upper Inner Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A24O-01A-11D-A167-09	Left	Positive	Positive	Negative	Tamoxifen	Positive	white	female	live	1	alive	stage iiia	
+TCGA-AR-A24P-01A-11D-A167-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A24Q-01A-12D-A167-09	Left Upper Inner Quadrant	Positive	Negative	Negative	Anastrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A24R-01A-11D-A167-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AR-A24S-01A-11D-A167-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A24T-01A-11D-A167-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Paclitaxel	Negative	white	female	live	1	alive	stage iiic	
+TCGA-AR-A24U-01A-11D-A167-09	Left Lower Outer Quadrant	Negative	Negative	Positive	Trustuzumab	Positive	white	female	live	1	alive	stage iia	
+TCGA-AR-A24V-01A-21D-A167-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A24W-01A-11D-A17G-09	Right Lower Inner Quadrant	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A24X-01A-11D-A167-09	Right Upper Inner Quadrant	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A24Z-01A-11D-A167-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A250-01A-31D-A167-09	Left Upper Outer Quadrant	Positive	Negative	Equivocal	Anastrozole	Positive	white	female	live	1	alive	stage iia	
+TCGA-AR-A251-01A-12D-A167-09	Left Upper Outer Quadrant	Positive	Negative	Equivocal	Tamoxifen	Positive	white	female	live	1	alive	stage iiia	
+TCGA-AR-A252-01A-11D-A167-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A254-01A-21D-A167-09	Left Lower Inner Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iiia	
+TCGA-AR-A255-01A-11D-A167-09	Right Lower Inner Quadrant	Positive	Positive	Positive	Anastrozole	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A256-01A-11D-A167-09	Right Lower Inner Quadrant	Negative	Negative	Negative	Cytoxan	Negative	white	female	live	1	dead	stage iia	
+TCGA-AR-A2LE-01A-11D-A17W-09	Right	Positive	Negative		Tamoxifen	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A2LH-01A-31D-A18P-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	Paclitaxel	Negative	white	female	live	1	dead	stage iii	Liver
+TCGA-AR-A2LK-01A-11D-A17W-09	Right Lower Outer Quadrant	Positive	Positive	Equivocal	Anastrozole	Positive	white	female	live	1	dead	stage iii	
+TCGA-AR-A2LL-01A-11D-A17W-09	Left	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A2LM-01A-11D-A17W-09	Right	Positive	Positive		Tamoxifen	Negative	white	female	live	1	alive	stage ii	
+TCGA-AR-A2LN-01A-21D-A18P-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Letrozole	Negative	white	female	live	1	alive	stage iia	
+TCGA-AR-A2LO-01A-31D-A18P-09	Left Lower Outer Quadrant	Positive	Positive	Equivocal	Anastrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A2LQ-01A-22D-A18P-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-AR-A2LR-01A-12D-A18P-09	Right	Negative	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage i	
+TCGA-AR-A5QM-01A-11D-A27P-09	Left	Positive	Positive	Equivocal	Anastrozole		white	female	live	1	alive	stage iia	
+TCGA-AR-A5QN-01A-12D-A28B-09	Left	Positive	Positive	Positive	Exemestane		white	female	live	1	alive	stage iiic	
+TCGA-AR-A5QP-01A-11D-A28B-09	Left	Positive	Positive	Equivocal	Tamoxifen		white	female	live	1	alive	stage iib	
+TCGA-AR-A5QQ-01A-11D-A28B-09	Right	Negative	Negative	Negative	VP-16		white	female	live	1	dead	stage iiia	
+TCGA-B6-A0I1-01A-11D-A21Q-09	Left Upper Outer Quadrant	Negative	Negative			Negative	black or african american	female	live	1	dead	stage iia	
+TCGA-B6-A0I2-01A-11W-A050-09	Left						white	female	live	1	alive	stage ia	
+TCGA-B6-A0I5-01A-11W-A100-09	Right Lower Inner Quadrant	Positive	Positive			Negative	white	female	live	1	alive	stage iib	
+TCGA-B6-A0I6-01A-11D-A128-09	Left	Negative	Negative			Negative	black or african american	female	live	1	dead	stage iia	
+TCGA-B6-A0I8-01A-11W-A050-09	Right						white	female	live	1	dead	stage x	
+TCGA-B6-A0I9-01A-11W-A050-09	Left	Indeterminate	Positive				white	female	live	1	dead	stage iv	Bone
+TCGA-B6-A0IA-01A-11W-A050-09	Right	Positive	Positive			Negative	white	female	live	1	alive	stage iia	
+TCGA-B6-A0IB-01A-11W-A050-09	Right	Positive	Positive			Negative	white	female	live	1	dead	stage iv	Other, specify
+TCGA-B6-A0IC-01A-11W-A050-09	Right	Positive	Positive			Negative	white	female	live	1	dead	stage x	
+TCGA-B6-A0IE-01A-11W-A050-09	Left	Negative	Negative			Close	black or african american	female	live	1	dead	stage iiia	
+TCGA-B6-A0IH-01A-11D-A10Y-09	Left	Positive	Positive			Positive	white	female	live	1	dead	stage iiia	
+TCGA-B6-A0IJ-01A-11W-A050-09	Right	Positive	Positive			Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-B6-A0IK-01A-12W-A071-09	Left	Negative	Negative			Positive	white	female	live	1	dead	stage iiib	
+TCGA-B6-A0IM-01A-11W-A050-09	Right	Positive	Positive			Positive	black or african american	female	live	1	dead	stage iib	
+TCGA-B6-A0IN-01A-11W-A050-09	Right	Positive	Negative			Positive	white	female	live	1	dead	stage x	
+TCGA-B6-A0RE-01A-11W-A071-09	Right	Negative	Negative			Negative	black or african american	female	live	1	alive	stage x	
+TCGA-B6-A0RG-01A-11W-A071-09	Left	Negative	Negative			Negative	white	female	live	1	alive	stage iib	
+TCGA-B6-A0RH-01A-21D-A10Y-09	Left Lower Inner Quadrant	Positive	Positive			Positive	black or african american	female	live	1	dead	stage iia	
+TCGA-B6-A0RI-01A-11W-A071-09	Right	Positive	Positive			Negative	white	female	live	1	alive	stage iiib	
+TCGA-B6-A0RL-01A-11D-A099-09	Left	Positive	Positive			Negative	black or african american	female	live	1	dead	stage iia	
+TCGA-B6-A0RM-01A-11D-A099-09	Left	Positive	Positive				black or african american	female	live	1	dead	stage x	
+TCGA-B6-A0RN-01A-12D-A099-09	Right	Negative	Negative			Negative	white	female	live	1	alive	stage ia	
+TCGA-B6-A0RO-01A-22D-A099-09	Right	Positive	Positive			Negative	white	female	live	1	alive	stage iiib	
+TCGA-B6-A0RP-01A-21D-A099-09	Left	Positive	Positive			Positive	white	female	live	1	dead	not reported	
+TCGA-B6-A0RQ-01A-11D-A10Y-09	Right	Positive	Positive				white	female	live	1	dead	stage iib	
+TCGA-B6-A0RS-01A-11D-A099-09	Left	Negative	Negative			Negative	white	female	live	1	dead	stage iia	
+TCGA-B6-A0RT-01A-21D-A099-09	Right	Negative	Negative			Close	white	female	live	1	alive	stage iiia	
+TCGA-B6-A0RU-01A-11D-A099-09	Right	Negative	Negative			Negative	white	female	live	1	alive	stage ia	
+TCGA-B6-A0RV-01A-11D-A099-09	Right	Positive	Positive			Negative	white	female	live	1	alive	stage iiia	
+TCGA-B6-A0WS-01A-11D-A10Y-09	Left	Positive	Positive			Positive	black or african american	female	live	1	dead	stage x	
+TCGA-B6-A0WT-01A-11D-A10G-09	Left	Positive	Positive			Negative	white	female	live	1	alive	stage iib	
+TCGA-B6-A0WV-01A-11D-A10G-09	Right	Positive	Positive			Negative	white	female	live	1	dead	stage iib	
+TCGA-B6-A0WW-01A-11D-A10G-09	Right	Positive	Positive			Negative	black or african american	female	live	1	dead	stage x	
+TCGA-B6-A0WX-01A-11D-A10G-09	Left	Negative	Negative			Negative	black or african american	female	live	1	dead	stage iiia	
+TCGA-B6-A0WY-01A-11D-A10G-09	Left	Positive	Negative			Negative	white	female	live	1	dead	stage iiia	
+TCGA-B6-A0WZ-01A-11D-A10G-09	Right	Positive	Positive			Negative	black or african american	female	live	1	alive	stage ii	
+TCGA-B6-A0X0-01A-21D-A10Y-09	Right	Positive	Positive			Negative	white	female	live	1	dead	stage i	
+TCGA-B6-A0X1-01A-11D-A10G-09	Left	Negative	Negative			Negative	white	female	live	1	dead	not reported	
+TCGA-B6-A0X4-01A-11D-A10G-09	Left	Positive	Positive			Negative	white	female	live	1	dead	stage iib	
+TCGA-B6-A0X5-01A-21D-A10G-09	Left	Positive	Positive			Negative	black or african american	female	live	1	dead	stage iib	
+TCGA-B6-A1KC-01B-11D-A159-09	Right Lower Outer Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-B6-A1KF-01A-11D-A13L-09	Right Lower Outer Quadrant	Negative	Negative	Equivocal		Negative	white	female	live	1	alive	stage iib	
+TCGA-B6-A1KI-01A-11D-A14K-09	Right Upper Inner Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage i	
+TCGA-B6-A1KN-01A-11D-A13L-09	Right Upper Inner Quadrant	Negative	Negative			Negative	white	female	live	1	alive	stage iiib	
+TCGA-B6-A2IU-01A-32D-A19T-09	Right	Positive	Positive			Negative	white	female	live	1	alive	stage iia	
+TCGA-B6-A401-01A-11D-A23C-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Femara	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-B6-A409-01A-11D-A243-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	Paclitaxel	Negative	black or african american	female	live	1	dead	stage iiia	
+TCGA-B6-A40B-01A-11D-A23C-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-B6-A40C-01A-11D-A23C-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Paclitaxel	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0AU-01A-11D-A12Q-09	Left Upper Inner Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0AV-01A-31D-A10Y-09	Left Upper Inner Quadrant	Negative	Negative		Cytoxan	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-BH-A0AW-01A-11W-A071-09	Left	Positive	Negative	Positive	Aromasin	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0AY-01A-21W-A019-09	Left	Positive	Positive	Negative	Aromasin	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0AZ-01A-21D-A12Q-09	Right	Positive	Positive	Negative	Avastin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0B0-01A-21D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-BH-A0B1-01A-12W-A071-09	Right	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0B3-01A-11W-A071-09	Right	Negative	Negative	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0B4-01A-11W-A019-09	Left	Positive	Positive	Equivocal	Tamoxifen	Negative	white	male	live	1	alive	stage iiia	
+TCGA-BH-A0B5-01A-11D-A12Q-09	Left	Positive	Positive	Negative	Taxol	Positive	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0B6-01A-11D-A19Y-09	Left Upper Outer Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0B7-01A-12D-A10Y-09	Right	Positive	Positive	Positive	Taxol	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0B8-01A-21W-A071-09	Right	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0B9-01A-11W-A071-09	Right	Negative	Negative	Negative	CYCLOPHOSPHAMIDE	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A0BA-01A-11W-A071-09	Left	Positive	Positive	Negative	Adriamycin	Negative	white	female	live	1	alive	stage iiic	
+TCGA-BH-A0BC-01A-22D-A099-09	Right				Docetaxel	Negative	white	female	live	1	alive	stage iiic	
+TCGA-BH-A0BD-01A-11W-A050-09	Left	Positive	Positive	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0BF-01A-21D-A12Q-09	Right Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage iib	
+TCGA-BH-A0BG-01A-11D-A10Y-09	Left Lower Outer Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0BJ-01A-11W-A071-09	Left				CYCLOPHOSPHAMIDE	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0BL-01A-11D-A10Y-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Taxol	Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0BM-01A-11W-A071-09	Right	Positive	Negative	Negative	TAXOTERE	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0BO-01A-23D-A12B-09	Left Upper Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0BP-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage i	
+TCGA-BH-A0BQ-01A-21D-A10Y-09	Left	Positive	Positive	Positive		Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0BR-01A-21W-A12T-09	Left Lower Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0BS-01A-11D-A12Q-09	Left	Positive	Positive		Cytoxan	Negative	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0BT-01A-11D-A12Q-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0BV-01A-11W-A019-09	Right				PACLITAXEL	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0BW-01A-11D-A10Y-09	Left Lower Outer Quadrant	Negative	Negative		Cytoxan	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-BH-A0BZ-01A-31D-A12Q-09	Left	Positive	Positive	Negative	Abraxane	Negative	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0C0-01A-21W-A071-09	Left				ARIMIDEX	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0C1-01B-11D-A12B-09	Right	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	dead	stage iiia	
+TCGA-BH-A0C3-01A-21D-A12Q-09	Left	Positive	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0C7-01B-11D-A10Y-09	Left	Positive	Negative		Taxol	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0DD-01A-31D-A12Q-09	Right	Positive	Positive	Positive	Carboplatin	Negative	white	male	live	1	alive	stage iib	
+TCGA-BH-A0DE-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0DG-01A-21D-A12Q-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-BH-A0DH-01A-11D-A099-09	Left				DOXORUBICIN	Positive	white	female	live	1	alive	stage iib	
+TCGA-BH-A0DI-01A-21D-A12Q-09	Right	Positive	Positive	Negative	Taxol	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0DK-01A-21W-A071-09	Left				TAMOXIFEN	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0DL-01A-11D-A10Y-09	Left	Positive	Negative	Negative	Taxotere	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0DO-01B-11D-A12B-09	Left Upper Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0DP-01A-21W-A071-09	Right				ARIMIDEX	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0DQ-01A-11D-A099-09	Right				TAXOL	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0DS-01A-11W-A071-09	Right				TAXOTERE	Negative	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0DT-01A-21D-A12B-09	Right	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0DV-01A-21D-A12Q-09	Left	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0DX-01A-11D-A10Y-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Methotrexate	Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0DZ-01A-11W-A019-09	Right				HERCEPTIN	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0E0-01A-11W-A071-09	Left				DOCETAXEL	Negative	white	female	live	1	alive	stage iiic	
+TCGA-BH-A0E1-01A-11W-A071-09	Left				ARIMIDEX	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0E2-01A-11W-A071-09	Right				PACLITAXEL	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-BH-A0E7-01A-11W-A050-09	Left				ARIMIDEX	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0E9-01B-11D-A10Y-09	Right	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0EA-01A-11D-A10Y-09	Left	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	dead	stage iia	
+TCGA-BH-A0EB-01A-11W-A050-09	Right				ARIMIDEX	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A0EE-01A-11W-A050-09	Right				Trastuzumab	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0EI-01A-11D-A10Y-09	Right	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0GY-01A-11W-A071-09	Left				Cyotxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0GZ-01A-11W-A071-09	Left				ARIMIDEX	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0H0-01A-11W-A071-09	Right				ARIMIDEX	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A0H3-01A-11D-A12Q-09	Left Upper Outer Quadrant	Positive	Positive			Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0H5-01A-21D-A10Y-09	Right Upper Outer Quadrant	Positive	Positive		Taxotere	Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0H6-01A-21W-A071-09	Right					Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0H7-01A-13W-A071-09	Right				BEVACIZUMAB (AVASTIN)/PLACEBO PROVIDED BY STUDY	Negative	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0H9-01A-11W-A071-09	Right				Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0HA-01A-11D-A12Q-09	Right	Positive	Positive			Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0HB-01A-11W-A071-09	Right				Docetaxel	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A0HF-01A-11W-A071-09	Right				Arimidex	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A0HI-01A-11D-A099-09	Right				Arimidex	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A0HK-01A-11W-A071-09	Right				ARIMIDEX	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0HL-01A-11W-A050-09	Right				ARIMIDEX	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0HN-01A-11D-A099-09	Left				ARIMIDEX	Positive	white	female	live	1	alive	stage ia	
+TCGA-BH-A0HO-01A-11W-A050-09	Right				Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0HP-01A-12D-A099-09	Left				Arimidex	Negative	white	female	live	1	alive	stage iiia	
+TCGA-BH-A0HQ-01A-11W-A050-09	Left				Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0HU-01A-11W-A050-09	Right				Cyclophosphamide	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A0HW-01A-11W-A050-09	Left				Doxorubicin	Negative	asian	female	live	1	alive	stage ia	
+TCGA-BH-A0HX-01A-21W-A071-09	Left				Taxotere	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-A0HY-01A-11W-A071-09	Left	Positive	Negative	Positive	Herceptin	Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0RX-01A-21D-A099-09	Left				Fluorouracil	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0W3-01A-11D-A10G-09	Left Upper Inner Quadrant	Positive	Positive	Equivocal			white	female	live	1	alive	stage iia	
+TCGA-BH-A0W4-01A-11D-A10G-09	Left Upper Outer Quadrant	Positive	Positive	Negative			white	female	live	1	alive	stage iia	
+TCGA-BH-A0W5-01A-11D-A10G-09	Left	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A0W7-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A0WA-01A-11D-A10G-09	Right Upper Outer Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage i	
+TCGA-BH-A18F-01A-11D-A12B-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A18G-01A-11D-A12B-09	Right	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A18H-01A-11D-A12B-09	Right Upper Outer Quadrant	Positive	Positive	Positive	Taxotere	Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A18I-01A-11D-A12B-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Cytoxan	Positive	white	female	live	1	alive	stage iia	
+TCGA-BH-A18J-01A-11D-A12B-09	Right	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage iv	Bone
+TCGA-BH-A18K-01A-11D-A12B-09	Left Lower Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage i	
+TCGA-BH-A18L-01A-32D-A12B-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage iiia	
+TCGA-BH-A18M-01A-11D-A12B-09	Left Upper Inner Quadrant	Positive	Positive	Positive		Negative	white	female	live	1	dead	stage iiia	
+TCGA-BH-A18N-01A-11D-A12B-09	Left	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage iia	
+TCGA-BH-A18P-01A-11D-A12B-09	Left Lower Inner Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	dead	stage i	
+TCGA-BH-A18Q-01A-12D-A12B-09	Left	Negative	Negative	Positive		Negative	white	female	live	1	dead	stage iib	
+TCGA-BH-A18R-01A-11D-A12B-09	Right Upper Outer Quadrant	Indeterminate	Negative	Positive		Negative	white	female	live	1	dead	stage iia	
+TCGA-BH-A18S-01A-11D-A12B-09	Right Lower Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage i	
+TCGA-BH-A18T-01A-11D-A12B-09	Right Upper Outer Quadrant	Negative	Negative	Positive		Negative	white	female	live	1	dead	stage iia	
+TCGA-BH-A18U-01A-21D-A12B-09	Left	Positive	Positive	Positive		Negative	white	female	live	1	dead	stage iiia	
+TCGA-BH-A18V-01A-11D-A12B-09	Right	Negative	Negative	Negative		Negative	white	female	live	1	dead	stage iib	Other, specify
+TCGA-BH-A1EN-01A-11D-A17G-09	Right	Negative	Negative	Positive		Negative	white	female	live	1	dead	stage iia	
+TCGA-BH-A1EO-01A-11D-A135-09	Right	Positive	Positive	Negative			white	female	live	1	dead	stage iia	
+TCGA-BH-A1ES-01A-11D-A135-09	Right Upper Inner Quadrant	Positive	Positive	Negative			white	female	live	1	dead	stage iib	
+TCGA-BH-A1ET-01A-11D-A135-09	Left	Positive	Positive	Negative			white	female	live	1	dead	stage i	
+TCGA-BH-A1EU-01A-11D-A135-09	Right	Positive	Positive	Negative			white	female	live	1	dead	stage i	
+TCGA-BH-A1EV-01A-11D-A135-09	Left	Positive	Positive	Positive			white	female	live	1	dead	stage iiia	
+TCGA-BH-A1EW-01A-11D-A135-09	Left Upper Outer Quadrant	Negative	Negative	Negative			white	female	live	1	dead	stage iia	
+TCGA-BH-A1EX-01A-11D-A13L-09	Right Lower Inner Quadrant	Positive	Positive	Positive			white	female	live	1	dead	stage iib	
+TCGA-BH-A1EY-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive	Negative			white	female	live	1	dead	stage iia	
+TCGA-BH-A1F0-01A-11D-A135-09	Left	Negative	Indeterminate	Negative			white	female	live	1	dead	stage iia	
+TCGA-BH-A1F2-01A-31D-A13L-09	Left	Positive	Positive	Positive			white	female	live	1	dead	stage iiib	
+TCGA-BH-A1F5-01A-12D-A13L-09	Right	Positive	Positive	Negative			white	female	live	1	dead	stage iia	
+TCGA-BH-A1F6-01A-11D-A13L-09	Left	Negative	Negative	Negative			white	female	live	1	dead	not reported	
+TCGA-BH-A1F8-01A-11D-A13L-09	Left	Positive	Positive	Positive			white	female	live	1	dead	stage iiib	
+TCGA-BH-A1FC-01A-11D-A13L-09	Right Upper Outer Quadrant	Negative	Negative	Negative			black or african american	female	live	1	dead	stage iia	
+TCGA-BH-A1FD-01A-11W-A14Q-09	Left	Positive	Positive	Negative			white	female	live	1	dead	stage i	
+TCGA-BH-A1FE-01A-11D-A13L-09	Left	Positive	Positive				white	female	live	1	dead	stage iib	
+TCGA-BH-A1FG-01A-11D-A13L-09	Left	Positive	Positive	Negative			white	female	live	1	dead	stage i	
+TCGA-BH-A1FH-01A-12D-A13L-09	Left Upper Outer Quadrant	Positive	Negative				white	female	live	1	dead	stage iv	Bone
+TCGA-BH-A1FJ-01A-11D-A13L-09	Right Upper Outer Quadrant	Negative	Positive				white	female	live	1	dead	stage iiia	
+TCGA-BH-A1FL-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive				white	female	live	1	dead	stage iib	
+TCGA-BH-A1FM-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Negative				white	female	live	1	dead	stage iiia	
+TCGA-BH-A1FN-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Positive				white	female	live	1	dead	stage iia	
+TCGA-BH-A1FR-01A-11D-A13L-09	Right Upper Inner Quadrant	Positive	Positive				white	female	live	1	dead	stage iiib	
+TCGA-BH-A1FU-01A-11D-A14G-09	Right Upper Outer Quadrant	Negative	Negative				white	female	live	1	dead	stage ia	
+TCGA-BH-A201-01A-11D-A14K-09	Left	Positive	Positive	Negative			white	female	live	1	alive	stage ia	
+TCGA-BH-A202-01A-11D-A14K-09	Left	Positive	Positive	Positive	Taxotere		white	female	live	1	alive	stage ii	
+TCGA-BH-A203-01A-12D-A167-09	Right						white	female	live	1	dead	stage iib	
+TCGA-BH-A204-01A-11D-A159-09	Left						white	female	live	1	dead	stage iib	
+TCGA-BH-A208-01A-11D-A159-09	Left						white	female	live	1	dead	stage iib	
+TCGA-BH-A209-01A-11D-A17G-09	Left Upper Outer Quadrant	Positive	Positive				black or african american	female	live	1	dead	stage i	
+TCGA-BH-A28Q-01A-11D-A16D-09	Right	Positive	Positive	Negative			white	female	live	1	alive	stage iib	
+TCGA-BH-A2L8-01A-11D-A18P-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A42U-01A-12D-A243-09	Right	Negative	Negative	Negative		Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-BH-A42V-01A-11D-A243-09	Left Lower Outer Quadrant	Positive	Positive	Negative		Positive	black or african american	female	live	1	alive	stage ib	
+TCGA-BH-A5IZ-01A-11D-A27P-09	Left	Positive	Negative	Negative	Cyclophosphamide	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-BH-A5J0-01A-11D-A27P-09	Left	Positive	Positive	Negative		Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-BH-A6R8-01A-21D-A33E-09	Left	Positive	Positive			Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-BH-A6R9-01A-21D-A32I-09	Left	Negative	Positive	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-BH-A8FY-01A-11D-A36J-09	Left Lower Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage ia	
+TCGA-BH-A8FZ-01A-11D-A351-09	Left	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage ia	
+TCGA-BH-A8G0-01A-11D-A351-09	Left	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iib	
+TCGA-BH-AB28-01A-31D-A41F-09	Left	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iiia	
+TCGA-C8-A12K-01A-21D-A10Y-09	Right Upper Inner Quadrant					Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A12L-01A-11D-A10Y-09	Right	Negative	Negative	Equivocal		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A12M-01A-11D-A135-09	Left	Positive	Negative	Negative		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A12N-01A-11D-A10Y-09	Right	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A12O-01A-11D-A10Y-09	Left	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A12P-01A-11D-A10Y-09	Left	Negative	Negative	Positive		Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A12Q-01A-11D-A10Y-09	Left	Negative	Negative	Positive		Negative	asian	female	live	1	dead	stage iiia	
+TCGA-C8-A12T-01A-11D-A10Y-09	Left	Positive	Positive	Positive		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A12U-01A-11D-A10Y-09	Right	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A12V-01A-11D-A10Y-09	Right	Negative	Negative	Negative			asian	female	live	1	alive	stage iia	
+TCGA-C8-A12W-01A-11D-A10Y-09	Left	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iiib	
+TCGA-C8-A12X-01A-11D-A10Y-09	Left	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A12Y-01A-11D-A12B-09	Left					Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A12Z-01A-11D-A10Y-09	Right	Negative	Negative	Positive	Cyclophosphamide	Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A130-01A-31D-A10Y-09	Left	Positive	Positive	Equivocal		Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A131-01A-11D-A10Y-09	Left	Negative	Negative	Negative	Cyclophosphamide	Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A132-01A-31D-A10Y-09	Left	Positive	Positive			Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A133-01A-32D-A12B-09	Right	Positive	Positive			Negative	white	female	live	1	alive	stage iiia	
+TCGA-C8-A134-01A-11D-A10Y-09	Left	Negative	Negative	Equivocal	Cyclophosphamide	Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A135-01A-11D-A10Y-09	Left	Negative	Negative	Positive	Taxol	Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A137-01A-11D-A10Y-09	Left	Negative	Negative	Positive		Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A138-01A-11D-A10Y-09	Left	Positive	Negative	Equivocal		Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A1HE-01A-11D-A188-09	Right	Positive	Positive	Equivocal		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A1HF-01A-11D-A135-09	Left	Negative	Positive	Positive		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A1HG-01A-11D-A135-09	Right	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A1HI-01A-11D-A135-09	Right	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A1HJ-01A-11D-A13L-09	Right	Negative	Negative	Negative		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A1HK-01A-21D-A13L-09	Right	Negative	Negative	Positive		Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A1HL-01A-11D-A135-09	Left	Positive	Negative	Equivocal		Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A1HM-01A-12D-A135-09	Left	Positive	Positive	Negative	Taxol	Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A1HN-01A-11D-A135-09	Left	Positive	Positive	Equivocal		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A1HO-01A-11D-A13L-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Cyclophosphamide	Negative	asian	female	live	1	alive	stage iiic	
+TCGA-C8-A26V-01A-11D-A16D-09	Right	Positive	Positive	Negative	Tamoxifen	Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A26W-01A-11D-A16D-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Cyclophosphamide	Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A26X-01A-31D-A16D-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Doxorubicin	Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A26Y-01A-11D-A16D-09	Left Upper Outer Quadrant	Negative	Negative	Negative		Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A26Z-01A-11D-A16D-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A273-01A-11D-A16D-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A274-01A-11D-A16D-09	Right	Positive	Positive	Negative	Tamoxifen	Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A275-01A-21D-A16D-09	Left Upper Outer Quadrant					Negative	asian	female	live	1	alive	stage iia	
+TCGA-C8-A278-01A-11D-A167-09	Left	Negative	Negative	Positive	Tamoxifen	Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A27A-01A-11D-A167-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Taxol	Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A27B-01A-11D-A167-09	Left	Negative	Negative	Negative	Taxol	Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A3M7-01A-12D-A21Q-09	Left Upper Inner Quadrant	Negative	Negative	Negative		Negative	asian	female	live	1	dead	stage iiib	
+TCGA-C8-A3M8-01A-11D-A20S-09	Right Upper Outer Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	asian	female	live	1	alive	stage ia	
+TCGA-C8-A8HP-01A-11D-A36J-09	Left Upper Outer Quadrant	Negative	Negative	Positive	Cyclophosphamide	Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A8HQ-01A-11D-A36J-09	Left	Positive	Positive	Negative		Negative	asian	female	live	1	alive	stage iib	
+TCGA-C8-A8HR-01A-11D-A36J-09	Right				Cyclophosphamide	Negative	asian	female	live	1	alive	stage iiia	
+TCGA-C8-A9FZ-01A-11D-A41F-09	Left			Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A13Y-01A-11D-A10Y-09	Right Upper Outer Quadrant	Positive	Positive	Negative	cyclophosphamide	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A13Z-01A-11D-A10Y-09	Right Lower Outer Quadrant	Negative	Negative	Negative	tamoxifen	Negative	white	female	live	1	alive	not reported	
+TCGA-D8-A140-01A-11D-A10Y-09	Left	Positive	Positive	Positive	doxorubicin+cyclophosphamid	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A141-01A-11D-A10Y-09	Right	Positive	Positive	Negative	tamoxifen	Negative	white	female	live	1	alive	not reported	
+TCGA-D8-A142-01A-11D-A10Y-09	Left	Negative	Negative	Equivocal	fluorouracil	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A143-01A-11D-A10Y-09	Left Lower Inner Quadrant	Negative	Negative	Negative	cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A145-01A-11D-A10Y-09	Right	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A146-01A-31D-A10Y-09	Right	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A147-01A-11D-A10Y-09	Right Lower Outer Quadrant	Negative	Negative	Negative	docetaxel	Negative	white	female	live	1	alive	not reported	
+TCGA-D8-A1J8-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Positive	Negative	nolvadex	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1J9-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Negative	Positive		Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1JA-01A-11D-A13L-09	Left Upper Outer Quadrant	Negative	Negative	Positive	cyclophosphamide	Negative	white	female	live	1	alive	not reported	
+TCGA-D8-A1JB-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	cyclophosphamide	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1JC-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive	Negative	cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A1JD-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive	Negative	cyclophosphamide	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1JE-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive	Negative	cyclophosphamid	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1JF-01A-11D-A13L-09	Left Upper Outer Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A1JG-01B-11D-A13L-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1JH-01A-11D-A188-09	Right Lower Outer Quadrant	Positive	Positive	Negative	nolvadex	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1JI-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Positive	Negative	letrozolum	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1JJ-01A-31D-A14K-09	Right Upper Inner Quadrant	Positive	Positive	Negative	cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1JK-01A-11D-A13L-09	Left Upper Outer Quadrant	Negative	Positive	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1JL-01A-11D-A13L-09	Left Lower Inner Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1JM-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Negative	Negative	doxorubicine cyclophosphamide tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1JN-01A-11D-A13L-09	Left	Positive	Positive	Indeterminate	anastrozolum	Negative	white	female	live	1	alive	stage iiic	
+TCGA-D8-A1JP-01A-11D-A13L-09	Left Upper Inner Quadrant	Positive	Positive	Negative	TAMOXIFEN	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1JS-01A-11D-A13L-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1JT-01A-31D-A13L-09	Left Lower Outer Quadrant	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1JU-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1X5-01A-11D-A14G-09	Right Lower Outer Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iiic	
+TCGA-D8-A1X6-01A-11D-A14K-09	Left Upper Outer Quadrant	Positive	Positive	Negative	tamoxifen	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A1X7-01A-11D-A14K-09	Right Upper Outer Quadrant	Positive	Positive	Negative	doxorubicine+cyclophosphamide+tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1X8-01A-11D-A14K-09	Left Lower Outer Quadrant	Positive	Indeterminate	Negative	adrimicin+cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A1X9-01A-12D-A159-09	Left Lower Outer Quadrant	Positive	Positive	Indeterminate	adriamycin+cyclophosphamide		white	female	live	1	alive	stage iib	
+TCGA-D8-A1XA-01A-11D-A14G-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1XB-01A-11D-A14G-09	Right Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1XC-01A-11D-A14G-09	Right Upper Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	dead	stage iiib	
+TCGA-D8-A1XF-01A-11D-A14G-09	Left Upper Outer Quadrant	Positive	Positive	Negative	adriamycin+cyclophosphamide		white	female	live	1	alive	stage iia	
+TCGA-D8-A1XG-01A-11D-A14G-09	Right Upper Inner Quadrant	Positive	Negative	Negative		Negative	white	female	live	1	alive	stage iiib	
+TCGA-D8-A1XJ-01A-11D-A14K-09	Left Lower Outer Quadrant	Positive	Positive	Positive	tamoxifen	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A1XK-01A-21D-A14K-09	Left Lower Inner Quadrant	Negative	Negative	Negative	doxorubicine+cyclophosphamide	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1XL-01A-11D-A14K-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	doxorubicine+cyclophosphamide+tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1XM-01A-21D-A14K-09	Right Upper Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1XO-01A-11D-A14K-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1XQ-01A-11D-A14K-09	Right Upper Outer Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1XR-01A-11D-A14K-09	Right Upper Outer Quadrant	Positive	Positive	Negative	adriamycin+cyclophosphamide	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A1XS-01A-11D-A14K-09	Left Upper Outer Quadrant	Positive	Positive	Positive	adriamycin+cyclophosphamide	Negative	white	male	live	1	alive	stage iiic	
+TCGA-D8-A1XT-01A-11D-A14K-09	Right Upper Outer Quadrant	Negative	Negative	Positive	adriamycin+cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1XU-01A-11D-A14K-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A1XV-01A-11D-A14K-09	Right Lower Inner Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1XW-01A-11D-A14K-09	Left Upper Inner Quadrant	Negative	Positive	Negative	adriamycin+cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1XY-01A-11D-A14K-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Tamoxifen		white	female	live	1	alive	stage iia	
+TCGA-D8-A1XZ-01A-11D-A14K-09	Right Lower Inner Quadrant	Positive	Negative	Negative	tamoxiphene+anastrozolum	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A1Y0-01A-11D-A14K-09	Left	Positive	Positive	Negative	cyclophosphamide+methotrexatum+fluorouracillum		white	female	live	1	alive	stage iiia	
+TCGA-D8-A1Y1-01A-21D-A14K-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen		white	female	live	1	dead	stage iiia	
+TCGA-D8-A1Y2-01A-11D-A159-09	Right Lower Outer Quadrant	Positive	Positive	Indeterminate	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A1Y3-01A-11D-A159-09	Right Upper Outer Quadrant	Positive	Positive	Indeterminate	doxorubicine+cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A27E-01A-11D-A16D-09	Left Upper Inner Quadrant	Positive	Positive	Negative	tamoxiphen+anastrazolum	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A27F-01A-11D-A16D-09	Right Upper Outer Quadrant	Negative	Negative	Negative	adriamycin+cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A27G-01A-11D-A16D-09	Left Lower Outer Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A27I-01A-11D-A16D-09	Right Upper Outer Quadrant	Positive	Positive	Negative	adrimycin+cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A27K-01A-11D-A16D-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-D8-A27L-01A-11D-A16D-09	Right Upper Inner Quadrant	Positive	Positive	Negative	adriamycin+cuclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A27M-01A-11D-A16D-09	Left Upper Outer Quadrant	Negative	Negative	Negative	methotrexate+5 fluorouracil+cyclophosphamide	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A27N-01A-11D-A16D-09	Right Upper Outer Quadrant	Positive	Positive	Positive	taxol+adriamycin+cyclophosphamide+herceptin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-D8-A27P-01A-11D-A16D-09	Right Upper Inner Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A27R-01A-11D-A16D-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	adriamycin+cyclophosphamide	Negative	white	female	live	1	alive	stage iiic	
+TCGA-D8-A27T-01A-11D-A16D-09	Right Lower Outer Quadrant	Positive	Positive	Negative	doxorubicine+cyclophosphamide	Negative	white	female	live	1	alive	stage iiic	
+TCGA-D8-A27V-01A-12D-A17D-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A27W-01A-11D-A16D-09	Right	Positive	Positive	Equivocal	doxorubicine+cyclophosphamide	Negative	white	female	live	1	alive	stage iiib	
+TCGA-D8-A3Z6-01A-11D-A23C-09	Left	Positive	Positive	Negative	Doxorubicinum	Negative	white	female	live	1	alive	stage iiic	
+TCGA-D8-A4Z1-01A-21D-A25Q-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage ia	
+TCGA-D8-A73U-01A-11D-A33E-09	Left Upper Outer Quadrant	Positive	Positive	Negative	tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-D8-A73W-01A-22D-A351-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Tamoxifen	Negative	white	female	live	1	dead	stage iiia	Bone
+TCGA-D8-A73X-01A-11D-A32I-09	Left Upper Outer Quadrant	Positive	Positive	Negative	tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A10A-01A-21D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Zometa	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A10C-01A-21D-A10M-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Adriamycin	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A14N-01A-31D-A135-09	Right Upper Inner Quadrant	Negative	Negative	Negative	Docetaxel	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A14O-01A-31D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E2-A14P-01A-31D-A12B-09	Right Upper Outer Quadrant	Negative	Negative	Positive	Trastuzumab	Negative	white	female	live	1	alive	stage iiic	
+TCGA-E2-A14Q-01A-11D-A12B-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A14R-01A-11D-A10Y-09	Left	Negative	Negative	Negative	Cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A14T-01A-11D-A10Y-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A14V-01A-11D-A12B-09	Left Lower Inner Quadrant	Positive	Positive	Positive	lapatinib	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A14W-01A-11D-A12B-09	Left Upper Outer Quadrant	Positive	Positive		Docetaxel	Negative	white	male	live	1	alive	stage iia	
+TCGA-E2-A14X-01A-11D-A10Y-09	Right Upper Outer Quadrant	Negative	Negative	Negative	paclitaxel	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-E2-A14Y-01A-21D-A12B-09	Right	Positive	Positive	Equivocal	Trastuzumab	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A14Z-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Carboplatin	Negative	white	female	live	1	dead	stage i	
+TCGA-E2-A150-01A-11D-A12B-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A152-01A-11D-A12B-09	Right Upper Inner Quadrant	Positive	Negative	Positive	Paclitaxel (Protein-Bound)	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A153-01A-12D-A12B-09	Left	Positive	Positive	Negative	doxorubicin	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A154-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Negative	arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A155-01A-11D-A12B-09	Left Lower Inner Quadrant	Positive	Negative	Negative	Taxol	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A156-01A-11D-A12B-09	Left	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A158-01A-11D-A12B-09	Left Upper Outer Quadrant	Negative	Negative	Negative	doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A159-01A-11D-A10Y-09	Left Lower Outer Quadrant	Negative	Negative		Cyclophosphamide	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A15A-01A-11D-A12B-09	Left	Positive	Positive	Negative	Cyclophosphamide	Negative	white	female	live	1	alive	stage iiic	
+TCGA-E2-A15C-01A-31D-A12B-09	Right Lower Outer Quadrant	Positive	Positive	Equivocal	arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A15D-01A-11D-A10Y-09	Right	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A15E-01A-11D-A12B-09	Left	Positive	Positive		trastuzumab	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A15G-01A-11D-A12B-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A15H-01A-11D-A12B-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Herceptin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A15I-01A-21D-A135-09	Left Lower Outer Quadrant	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A15J-01A-11D-A12Q-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Docetaxel	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A15K-01A-11D-A12Q-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Adriamycin	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A15L-01A-11D-A12B-09	Right	Positive	Positive	Equivocal	Arimidex	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-E2-A15M-01A-11D-A12B-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	dead	stage iia	
+TCGA-E2-A15O-01A-11D-A10Y-09	Left Upper Inner Quadrant	Positive	Positive	Equivocal	Femara	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-E2-A15P-01A-11D-A10Y-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage ia	
+TCGA-E2-A15R-01A-11D-A10Y-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A15S-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Negative	Equivocal	Taxol	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A15T-01A-11D-A10Y-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1AZ-01A-11D-A12Q-09	Left Upper Inner Quadrant	Negative	Negative	Indeterminate	Adriamycin	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A1B0-01A-11D-A12Q-09	Left Upper Outer Quadrant	Negative	Negative	Positive	herceptin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E2-A1B1-01A-21D-A12Q-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	adriamycin	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A1B4-01A-11D-A12Q-09	Left Upper Inner Quadrant	Positive	Positive	Negative	arimidex	Negative	white	female	live	1	dead	stage iiia	
+TCGA-E2-A1B5-01A-21D-A12Q-09	Left	Positive	Positive	Negative	tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1B6-01A-31D-A12Q-09	Left	Negative	Negative	Equivocal	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1BC-01A-11D-A14G-09	Right	Positive	Positive	Negative	Arimidex	Positive	not reported	female	live	1	alive	stage ia	
+TCGA-E2-A1BD-01A-11D-A12Q-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1IE-01A-11D-A188-09	Right	Positive	Positive	Equivocal	Everolimus	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A1IF-01A-11D-A142-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A1IG-01A-11D-A142-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Letrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-E2-A1IH-01A-11D-A188-09	Right Upper Inner Quadrant	Positive	Positive	Equivocal	Aromasin	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A1II-01A-11D-A142-09	Left	Negative	Positive	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A1IJ-01A-11D-A142-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A1IK-01A-11D-A17G-09	Left	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1IL-01A-11D-A14G-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1IN-01A-11D-A13L-09	Right	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A1IO-01A-11D-A142-09	Right	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A1IU-01A-11D-A14G-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage ia	
+TCGA-E2-A1L6-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Clodronate	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1L7-01A-11D-A142-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Doxorubicin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E2-A1L8-01A-11D-A13L-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Doxorubicin	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-E2-A1L9-01A-11D-A13L-09	Right	Positive	Positive	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-E2-A1LA-01A-11D-A142-09	Right Upper Inner Quadrant	Positive	Positive	Equivocal	Arimidex	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-E2-A1LB-01A-11D-A142-09	Right Upper Outer Quadrant	Negative	Negative	Positive	adriamycin	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-E2-A1LG-01A-21D-A14K-09	Left Upper Outer Quadrant	Negative	Negative	Equivocal	Paclitaxel	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-E2-A1LH-01A-11D-A14G-09	Right	Negative	Negative	Negative	Adriamycin	Negative	white	female	live	1	alive	stage i	
+TCGA-E2-A1LI-01A-12D-A159-09	Left Upper Outer Quadrant	Negative	Negative	Equivocal	Cytoxan	Close	white	female	live	1	alive	stage iib	
+TCGA-E2-A1LK-01A-21D-A14G-09	Left Lower Outer Quadrant	Negative	Negative	Equivocal		Negative	black or african american	female	live	1	dead	stage iiic	
+TCGA-E2-A1LL-01A-11D-A142-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Docetaxel	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-E2-A1LS-01A-12D-A159-09	Right Lower Outer Quadrant	Negative	Negative	Negative	Cyclophosphamide	Negative	white	female	live	1	alive	stage ia	
+TCGA-E2-A2P6-01A-11D-A19Y-09	Left Upper Outer Quadrant	Positive	Positive		Anastrozole	Positive	not reported	female	live	1	alive	stage iib	
+TCGA-E2-A56Z-01A-12D-A29N-09	Right	Positive	Positive	Equivocal	Arimidex	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-E2-A570-01A-11D-A29N-09	Right Lower Inner Quadrant	Positive	Positive	Equivocal	Anastrozole	Negative	black or african american	female	live	1	alive	stage ib	
+TCGA-E2-A572-01A-13D-A31U-09	Left	Positive	Positive	Equivocal	Arimidex	Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-E2-A573-01A-11D-A29N-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	Cytoxan	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-E2-A574-01A-11D-A29N-09	Left	Negative	Negative	Equivocal	Abraxane	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-E2-A576-01A-11D-A31U-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	Cytoxan	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-E2-A9RU-01A-11D-A41F-09	Right Lower Outer Quadrant	Positive	Negative	Equivocal	Arimidex	Negative	black or african american	female	live	1	alive	stage iiic	
+TCGA-E9-A1N3-01A-12D-A159-09	Right Upper Inner Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A1N4-01A-11D-A14K-09	Left Upper Inner Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A1N5-01A-11D-A14G-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A1N8-01A-11D-A142-09	Right Upper Outer Quadrant	Negative		Negative	Cyclophosphane	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1N9-01A-11D-A14G-09	Right Lower Outer Quadrant	Negative	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1NA-01A-11D-A142-09	Left Lower Outer Quadrant	Positive	Positive	Positive	Letrozole	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1NC-01A-12W-A16L-09	Right Upper Inner Quadrant	Negative	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A1ND-01A-11D-A142-09	Left Upper Outer Quadrant	Negative	Negative	Positive	Aromasin	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A1NE-01A-21D-A14K-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A1NF-01A-11D-A14G-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	dead	stage iia	
+TCGA-E9-A1NG-01A-21D-A14K-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	dead	stage iia	
+TCGA-E9-A1NH-01A-11D-A14G-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A1NI-01A-11W-A16H-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1QZ-01A-21D-A167-09	Left Lower Inner Quadrant					Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1R0-01A-22D-A16D-09	Left Upper Outer Quadrant				Cyclophosphamide		white	female	live	1	alive	stage iia	
+TCGA-E9-A1R2-01A-11D-A14G-09	Left Upper Outer Quadrant	Positive	Negative	Equivocal	Cytoxan	Positive	white	female	live	1	alive	stage iiic	
+TCGA-E9-A1R3-01A-31D-A14K-09	Right Upper Outer Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iiic	
+TCGA-E9-A1R4-01A-21D-A14G-09	Left Upper Outer Quadrant				Cyclophosphamide	Negative	white	female	live	1	alive	stage ia	
+TCGA-E9-A1R5-01A-11D-A14K-09	Right Upper Outer Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage ia	
+TCGA-E9-A1R6-01A-11D-A14G-09	Right Upper Outer Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1R7-01A-11D-A14K-09	Right Upper Outer Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1RA-01A-11D-A14G-09	Left Upper Outer Quadrant				Cyclophosphamide	Negative	white	female	live	1	alive	stage ia	
+TCGA-E9-A1RB-01A-11D-A17G-09	Left Upper Inner Quadrant				Methotrexate	Negative	white	female	live	1	dead	stage iia	
+TCGA-E9-A1RC-01A-11D-A159-09	Right Upper Outer Quadrant				Methotrexate	Negative	white	female	live	1	alive	stage iiic	
+TCGA-E9-A1RD-01A-11D-A159-09	Right Lower Inner Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1RE-01A-11D-A159-09	Left Upper Outer Quadrant				Cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A1RF-01A-11D-A159-09	Left Upper Outer Quadrant				Cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A1RG-01A-11D-A14G-09	Right Upper Outer Quadrant				Cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A1RH-01A-21D-A167-09	Right Lower Outer Quadrant				5-Fluorouracil	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A1RI-01A-11D-A167-09	Left Upper Outer Quadrant				Cyclophosphamide	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A226-01A-21D-A159-09	Left Lower Inner Quadrant				Pamidronate	Negative	white	female	live	1	dead	stage iiia	
+TCGA-E9-A227-01A-11D-A159-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Positive	white	female	live	1	alive	stage iib	
+TCGA-E9-A228-01A-31D-A159-09	Right Lower Inner Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A229-01A-31D-A17G-09	Right Lower Inner Quadrant				Doxorubicin	Negative	white	female	live	1	alive	stage ia	
+TCGA-E9-A22A-01A-11D-A159-09	Right Lower Outer Quadrant	Positive	Negative	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A22B-01A-11D-A159-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage ia	
+TCGA-E9-A22D-01A-11D-A159-09	Right Upper Outer Quadrant	Positive	Positive	Positive	5-Fluorouracil	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A22E-01A-11D-A159-09	Right Upper Inner Quadrant	Positive	Positive	Positive	5-Fluorouracil	Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A22G-01A-11D-A159-09	Left Upper Outer Quadrant	Negative	Negative	Positive	Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A22H-01A-11D-A159-09	Left Upper Outer Quadrant	Positive	Positive	Positive	5-Fluorouracil	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A243-01A-21D-A167-09	Right Upper Inner Quadrant				Pamidronate	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A244-01A-11D-A167-09	Left Upper Outer Quadrant				Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A245-01A-22D-A16D-09	Left Upper Outer Quadrant				Tamoxifen	Negative	white	female	live	1	dead	stage iib	
+TCGA-E9-A247-01A-11D-A167-09	Left Upper Inner Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage ia	
+TCGA-E9-A248-01A-11D-A167-09	Right Upper Outer Quadrant				Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A249-01A-11D-A167-09	Left Upper Outer Quadrant				Doxorubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A24A-01A-11D-A167-09	Right Upper Outer Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A295-01A-11D-A16D-09	Right Lower Outer Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A2JS-01A-11D-A17W-09	Left Upper Outer Quadrant				Zoladex	Negative	white	female	live	1	dead	stage iib	
+TCGA-E9-A2JT-01A-22D-A18P-09	Left Upper Outer Quadrant				Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A3HO-01A-11D-A20S-09	Left Upper Outer Quadrant				Zoladex	Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A3QA-01A-61D-A228-09	Left Lower Inner Quadrant					Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A3X8-01A-31D-A22X-09	Left Upper Outer Quadrant	Positive	Positive	Positive	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A54Y-01A-11D-A25Q-09	Right	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iiia	
+TCGA-E9-A5FK-01A-11D-A27P-09	Right Upper Outer Quadrant	Positive	Positive	Negative	5-Fluorouracil	Negative	white	female	live	1	alive	stage iiic	
+TCGA-E9-A5FL-01A-11D-A27P-09	Right Upper Outer Quadrant	Negative	Negative	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-E9-A5UO-01A-11D-A28B-09	Right Upper Outer Quadrant					Negative	white	female	live	1	alive	stage iia	
+TCGA-E9-A6HE-01A-11D-A31U-09	Right	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iiic	
+TCGA-EW-A1IW-01A-11D-A13L-09	Right Lower Outer Quadrant	Positive	Positive	Positive	Aromasin	Negative	white	female	live	1	alive	stage iib	
+TCGA-EW-A1IX-01A-12D-A142-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Femara	Negative	asian	female	live	1	alive	stage iia	
+TCGA-EW-A1IY-01A-11D-A188-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Taxotere/Cytoxan	Negative	asian	female	live	1	alive	stage i	
+TCGA-EW-A1IZ-01A-11D-A188-09	Left Lower Outer Quadrant	Positive	Positive	Negative	Adriamycin	Negative	white	female	live	1	alive	stage iiia	
+TCGA-EW-A1J1-01A-11D-A188-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Adriamycin	Negative	white	female	live	1	alive	stage iib	
+TCGA-EW-A1J2-01A-21D-A13L-09	Right Lower Inner Quadrant	Positive	Positive	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	not reported	
+TCGA-EW-A1J3-01A-11D-A13L-09	Left Lower Outer Quadrant	Positive	Positive	Positive	Docetaxel	Negative	white	female	live	1	alive	stage ia	
+TCGA-EW-A1J5-01A-11D-A13L-09	Left	Positive	Positive	Negative	Cyclophosphamide	Negative	white	female	live	1	alive	stage iib	
+TCGA-EW-A1J6-01A-11D-A188-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Femara	Negative	white	female	live	1	alive	stage i	
+TCGA-EW-A1OV-01A-11D-A142-09	Right Lower Outer Quadrant	Negative	Negative	Negative	Fluorouracil	Close	white	female	live	1	alive	stage iib	
+TCGA-EW-A1OX-01A-11D-A142-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Taxotere	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A1OY-01A-11D-A142-09	Left	Positive	Positive	Negative	Paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A1OZ-01A-11D-A142-09	Left Upper Outer Quadrant	Positive	Negative	Equivocal	Paclitaxel	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-EW-A1P0-01A-11D-A142-09	Left Upper Outer Quadrant	Positive	Negative	Negative	Arimidex	Negative	white	female	live	1	alive	stage iib	
+TCGA-EW-A1P1-01A-31D-A14G-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	Adriamycin	Negative	white	female	live	1	alive	stage iiic	Lung
+TCGA-EW-A1P3-01A-11D-A142-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Paclitaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A1P4-01A-21D-A142-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Docetaxel	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A1P5-01A-11D-A142-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-EW-A1P6-01A-11D-A142-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Fluorouracil	Close	white	female	live	1	alive	stage iib	
+TCGA-EW-A1P7-01A-21D-A142-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	Taxol	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A1P8-01A-11D-A142-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Cyclophosphamide	Negative	white	female	live	1	dead	stage iiic	Other, specify
+TCGA-EW-A1PA-01A-11D-A142-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Epirubicin	Negative	white	female	live	1	alive	stage iib	
+TCGA-EW-A1PB-01A-11D-A142-09	Right Upper Outer Quadrant	Negative	Negative	Negative		Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-EW-A1PD-01A-11D-A142-09	Right	Positive	Positive	Equivocal	Docetaxel	Negative	white	male	live	1	alive	stage iia	
+TCGA-EW-A1PE-01A-11D-A142-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Fluorouracil	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A1PG-01A-11D-A142-09	Left Lower Outer Quadrant	Positive	Positive	Equivocal	Docetaxel	Negative	white	female	live	1	alive	stage iib	
+TCGA-EW-A1PH-01A-11D-A14K-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Taxol	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A2FR-01A-11D-A21Q-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	Paclitaxel	Negative	black or african american	female	live	1	alive	stage iiic	
+TCGA-EW-A2FS-01A-11D-A17D-09	Left Upper Outer Quadrant	Positive	Negative	Negative	Paclitaxel	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-EW-A2FV-01A-11D-A17D-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Goserelin	Negative	white	female	live	1	alive	stage iiic	
+TCGA-EW-A2FW-01A-11D-A17D-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Exemestane	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A423-01A-11D-A243-09	Left Upper Inner Quadrant	Positive	Positive	Negative	Anastrozole	Negative	white	female	live	1	alive	stage iia	
+TCGA-EW-A6S9-01A-22D-A33E-09	Right Upper Outer Quadrant	Positive	Positive	Positive			black or african american	female	live	1	alive	stage iia	
+TCGA-EW-A6SA-01A-21D-A32I-09	Left Lower Inner Quadrant	Positive	Negative	Negative		Negative	black or african american	male	live	1	alive	stage ii	
+TCGA-EW-A6SB-01A-12D-A32I-09	Left Upper Inner Quadrant	Negative	Negative	Negative		Negative	black or african american	female	live	1	alive	stage ii	
+TCGA-EW-A6SC-01A-12D-A32I-09	Left Upper Outer Quadrant	Positive	Positive	Negative	aromatase exemestane	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-EW-A6SD-01A-12D-A33E-09	Left Upper Outer Quadrant	Negative	Negative		TCH	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-GI-A2C8-01A-11D-A16D-09	Right	Positive	Positive	Negative	Taxotere	Negative	white	female	live	1	alive	stage iiib	
+TCGA-GM-A2D9-01A-11D-A18P-09	Left Upper Inner Quadrant	Positive	Positive		Gemcitabine	Negative	white	female	live	1	dead	stage i	Bone
+TCGA-GM-A2DA-01A-11D-A18P-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Herceptin	Negative	white	female	live	1	dead	stage iib	
+TCGA-GM-A2DB-01A-31D-A19Y-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage iia	
+TCGA-GM-A2DC-01A-11D-A18P-09	Right Upper Outer Quadrant	Positive	Positive		Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-GM-A2DD-01A-11D-A17W-09	Right	Negative	Negative	Equivocal	Cytoxan	Negative	white	female	live	1	alive	stage i	
+TCGA-GM-A2DF-01A-11D-A17W-09	Left Lower Outer Quadrant	Negative	Negative	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-GM-A2DH-01A-11D-A17W-09	Right Upper Outer Quadrant	Negative	Negative	Negative	Cytoxan	Negative	white	female	live	1	alive	stage i	
+TCGA-GM-A2DI-01A-31D-A18P-09	Left Upper Inner Quadrant	Negative	Negative		Cytoxan	Negative	white	female	live	1	alive	stage i	
+TCGA-GM-A2DK-01A-21D-A17W-09	Right Upper Outer Quadrant	Positive	Negative	Negative	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-GM-A2DL-01A-11D-A18P-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage i	
+TCGA-GM-A2DM-01A-11D-A17W-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-GM-A2DN-01A-11D-A17W-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-GM-A2DO-01A-11D-A19Y-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-GM-A3NW-01A-21D-A228-09	Left Upper Inner Quadrant	Negative	Positive	Equivocal	Epirubicin	Negative	white	female	live	1	alive	stage iia	
+TCGA-GM-A3XL-01A-11D-A22X-09	Right Upper Outer Quadrant	Negative	Negative		Paclitaxel	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-GM-A4E0-01A-12D-A25Q-09	Left Lower Outer Quadrant	Positive	Positive		Arimidex	Negative	white	female	live	1	alive	stage iiic	
+TCGA-GM-A5PV-01A-11D-A28B-09	Right	Positive	Positive		Cytoxan	Negative	white	female	live	1	alive	stage iib	
+TCGA-GM-A5PX-01A-12D-A28B-09	Left	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-HN-A2NL-01A-11D-A18P-09	Left Upper Outer Quadrant	Negative	Negative	Negative	Doxorubicin	Negative	not reported	female	live	1	alive	stage iia	
+TCGA-HN-A2OB-01A-21D-A27P-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Docetaxel	Negative	not reported	female	live	1	dead	stage iib	
+TCGA-JL-A3YX-01A-11D-A22X-09	Left	Positive	Positive	Positive		Negative	asian	female	live	1	alive	stage iia	
+TCGA-LD-A66U-01A-11D-A31U-09	Right Upper Outer Quadrant	Positive	Positive	Negative	Tamoxifen	Negative	white	female	live	1	alive	stage iib	
+TCGA-LD-A74U-01A-13D-A33E-09	Right	Positive	Negative	Negative	Taxotere	Negative	white	female	live	1	alive	stage iiic	
+TCGA-LD-A7W5-01A-22D-A351-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Cytoxan	Positive	black or african american	female	live	1	alive	stage iiic	
+TCGA-LD-A7W6-01A-81D-A351-09	Right Upper Inner Quadrant	Positive	Positive	Negative	Letrozole	Negative	white	female	live	1	alive	stage iib	
+TCGA-LD-A9QF-01A-32D-A41F-09	Left	Negative	Negative	Positive	Herceptin	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-LL-A440-01A-11D-A243-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	TAXOTERE	Negative	white	female	live	1	alive	stage ia	
+TCGA-LL-A50Y-01A-11D-A25Q-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	ARIMIDEX	Negative	white	female	live	1	alive	stage iia	
+TCGA-LL-A5YL-01A-12D-A29N-09	Right Upper Inner Quadrant	Positive	Negative	Positive	ARIMIDEX	Negative	white	female	live	1	alive	stage iib	
+TCGA-LL-A5YM-01A-11D-A28B-09	Left Upper Inner Quadrant	Positive	Positive	Equivocal	letrozole	Positive	black or african american	female	live	1	alive	stage iiib	
+TCGA-LL-A5YN-01A-11D-A28B-09	Right Upper Inner Quadrant	Positive	Positive	Equivocal	tamoxifen citrate	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-LL-A5YO-01A-21D-A28B-09	Left Upper Outer Quadrant	Negative	Negative	Negative	CYTOXAN	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-LL-A5YP-01A-21D-A28B-09	Right Lower Inner Quadrant	Positive	Negative	Negative	arimidex	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-LL-A6FP-01A-11D-A31U-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	Tamoxifen	Negative	white	female	live	1	alive	stage iia	
+TCGA-LL-A6FQ-01A-11D-A31U-09	Right Upper Outer Quadrant	Positive	Positive	Negative		Negative	black or african american	female	live	1	alive	stage iiia	
+TCGA-LL-A6FR-01A-12D-A31U-09	Right Lower Inner Quadrant	Negative	Positive	Equivocal	TAXOL	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-LL-A73Y-01A-11D-A33E-09	Right Upper Inner Quadrant	Negative	Negative	Negative	cytoxan	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-LL-A73Z-01A-11D-A32I-09	Left Lower Inner Quadrant	Positive	Positive	Equivocal	faslodex	Positive	black or african american	female	live	1	dead	stage iv	Other, specify
+TCGA-LL-A740-01A-21D-A32I-09	Right Upper Outer Quadrant	Negative	Negative	Equivocal	TAXOL	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-LL-A7SZ-01A-32D-A351-09	Left Upper Outer Quadrant	Positive	Positive	Negative	TAMOXIFEN	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-LL-A7T0-01A-31D-A351-09	Left Lower Inner Quadrant	Positive	Positive	Positive		Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-LL-A8F5-01A-11D-A36J-09	Right Upper Inner Quadrant	Positive	Negative	Negative	ARIMIDEX	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-LL-A9Q3-01A-11D-A41F-09	Left Upper Outer Quadrant	Positive	Positive	Positive	ARIMIDEX	Negative	white	female	live	1	alive	stage iiic	
+TCGA-OK-A5Q2-01A-11D-A27P-09	Right	Positive	Positive	Negative		Negative	not reported	female	live	1	alive	stage ii	
+TCGA-OL-A5D6-01A-21D-A27P-09	Left Lower Outer Quadrant	Negative	Negative			Negative	black or african american	female	live	1	dead	stage iia	
+TCGA-OL-A5D7-01A-11D-A27P-09	Left Upper Outer Quadrant	Negative	Negative		Taxotere	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-OL-A5D8-01A-11D-A27P-09	Left Lower Outer Quadrant	Positive	Positive				black or african american	female	live	1	alive	stage iib	
+TCGA-OL-A5DA-01A-11D-A27P-09	Right Upper Outer Quadrant	Positive	Positive			Negative	white	female	live	1	alive	stage iia	
+TCGA-OL-A5RU-01A-11D-A28B-09	Left Upper Outer Quadrant	Positive	Positive		docetaxel	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-OL-A5RV-01A-12D-A28B-09	Right Upper Outer Quadrant	Positive	Positive		Paclitaxel	Negative	black or african american	female	live	1	alive	stage iiic	
+TCGA-OL-A5RW-01A-11D-A28B-09	Right Upper Outer Quadrant	Negative	Negative		TAXOL	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-OL-A5RX-01A-11D-A28B-09	Right Upper Outer Quadrant	Positive	Positive			Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-OL-A5RY-01A-21D-A28B-09	Right	Positive	Negative			Positive	black or african american	female	live	1	alive	stage iia	
+TCGA-OL-A5RZ-01A-11D-A28B-09	Left Upper Outer Quadrant	Positive	Negative		Cytoxan	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-OL-A5S0-01A-11D-A28B-09	Right	Positive	Negative		HERCEPTIN	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-OL-A66H-01A-11D-A29N-09	Right	Positive	Positive			Negative	black or african american	female	live	1	alive	stage ib	
+TCGA-OL-A66I-01A-21D-A29N-09	Right Upper Outer Quadrant	Negative	Negative		TAXOL	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-OL-A66J-01A-11D-A29N-09	Right Upper Outer Quadrant	Positive	Positive			Negative	white	female	live	1	alive	stage i	
+TCGA-OL-A66K-01A-11D-A29N-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal		Negative	white	female	live	1	dead	stage iia	
+TCGA-OL-A66L-01A-12D-A31U-09	Right Lower Inner Quadrant	Positive	Positive			Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-OL-A66N-01A-12D-A31U-09	Left	Positive	Negative			Negative	white	female	live	1	alive	stage iiic	
+TCGA-OL-A66O-01A-11D-A31U-09	Right Upper Outer Quadrant	Positive	Positive		Taxotere	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-OL-A66P-01A-11D-A31U-09	Right	Negative	Negative		Taxotere	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-OL-A6VO-01A-12D-A33E-09	Right Lower Outer Quadrant	Negative	Negative	Negative	Cytoxan	Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-OL-A6VQ-01A-12D-A41F-09	Right	Positive	Positive			Positive	white	female	live	1	alive	stage iia	
+TCGA-OL-A6VR-01A-32D-A33E-09	Right	Positive	Positive	Negative		Negative	black or african american	female	live	1	alive	stage ia	
+TCGA-OL-A97C-01A-32D-A41F-09	Left	Negative	Negative				black or african american	female	live	1	alive	stage iib	
+TCGA-PE-A5DC-01A-12D-A27P-09	Right Upper Inner Quadrant	Positive	Positive	Positive			white	female	live	1	dead	stage iiia	
+TCGA-PE-A5DD-01A-12D-A27P-09	Right Lower Inner Quadrant	Positive	Negative	Positive		Negative	asian	female	live	1	alive	stage iia	
+TCGA-PE-A5DE-01A-11D-A27P-09	Left	Positive	Positive	Negative	Tamoxifen		white	female	live	1	alive	stage iia	
+TCGA-PL-A8LV-01A-21D-A41F-09	Right Upper Outer Quadrant						black or african american	female	live	1	alive	stage iiib	
+TCGA-PL-A8LX-01A-11D-A41F-09	Left Upper Outer Quadrant						black or african american	female	live	1	alive	stage iv	Liver
+TCGA-PL-A8LY-01A-11D-A41F-09	Right Upper Outer Quadrant						black or african american	female	live	1	alive	stage iib	
+TCGA-PL-A8LZ-01A-31D-A36J-09	Left Upper Outer Quadrant				paclitaxel		black or african american	female	live	1	alive	stage iiib	
+TCGA-S3-A6ZF-01A-32D-A32I-09	Right Upper Outer Quadrant	Positive	Positive	Equivocal	ANASTROZOLE	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-S3-A6ZG-01A-22D-A32I-09	Left Upper Outer Quadrant	Positive	Positive	Negative	NEULASTA	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-S3-A6ZH-01A-22D-A32I-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	TAMOXIFEN	Negative	black or african american	female	live	1	alive	stage iiic	
+TCGA-S3-AA0Z-01A-11D-A41F-09	Left Upper Outer Quadrant	Positive	Positive	Equivocal	ANASTROZOLE	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-S3-AA10-01A-21D-A41F-09	Right Upper Outer Quadrant	Negative	Negative	Negative	ANASTROZOLE	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-S3-AA11-01A-31D-A41F-09	Right	Positive	Positive	Equivocal	ANASTROZOLE	Negative	black or african american	female	live	1	alive	stage iia	
+TCGA-S3-AA12-01A-11D-A41F-09	Left Lower Inner Quadrant	Positive	Negative	Negative	ANASTROZOLE	Negative	black or african american	female	live	1	alive	stage iiia	Other, specify
+TCGA-S3-AA14-01A-11D-A41F-09	Right	Positive	Positive	Positive	TAXOL	Negative	black or african american	female	live	1	alive	stage i	
+TCGA-S3-AA15-01A-11D-A41F-09	Right Upper Inner Quadrant	Negative	Negative	Negative	TAXOL	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-S3-AA17-01A-11D-A41F-09	Right Lower Outer Quadrant	Positive	Positive	Equivocal	ANASTROZOLE	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-UL-AAZ6-01A-11D-A41F-09	Right	Positive	Positive	Positive	Herceptin		black or african american	female	live	1	alive	stage iia	
+TCGA-UU-A93S-01A-21D-A41F-09	Right Lower Outer Quadrant	Negative	Negative	Positive		Positive	black or african american	female	live	1	dead	stage iv	Liver
+TCGA-V7-A7HQ-01A-11D-A33E-09	Right Lower Outer Quadrant	Positive	Positive		letrozole	Positive	black or african american	female	live	1	alive	stage iiia	
+TCGA-W8-A86G-01A-21D-A36J-09	Left Lower Inner Quadrant	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage iia	
+TCGA-WT-AB41-01A-11D-A41F-09	Left Lower Outer Quadrant	Positive	Positive		Cytoxan	Negative	black or african american	female	live	1	alive	stage iib	
+TCGA-WT-AB44-01A-11D-A41F-09	Left	Positive	Positive	Negative	Arimidex	Negative	white	female	live	1	alive	stage ia	
+TCGA-XX-A899-01A-11D-A36J-09	Right Lower Outer Quadrant	Positive	Positive	Negative	Zoladex	Negative	white	female	live	1	alive	stage iiia	
+TCGA-XX-A89A-01A-11D-A36J-09	Left Upper Outer Quadrant	Positive	Positive	Negative		Negative	white	female	live	1	alive	stage iib	
+TCGA-Z7-A8R5-01A-42D-A41F-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Taxol	Positive	white	female	live	1	alive	stage iiia	
+TCGA-Z7-A8R6-01A-11D-A41F-09	Left Upper Outer Quadrant	Positive	Positive	Negative	Taxol	Negative	white	female	live	1	alive	stage i	

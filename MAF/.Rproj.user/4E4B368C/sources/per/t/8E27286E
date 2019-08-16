@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552461135335.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "16|25|30|0|\n",
+    "hash" : "1645569536",
+    "id" : "8E27286E",
+    "lastKnownWriteTime" : 1551793745,
+    "last_content_update" : 1552465608176,
+    "path" : "~/Documents/Nutstore/github/TCGA_BRCA/MAF/step5-SNV-VS-math.R",
+    "project_path" : "step5-SNV-VS-math.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "7"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

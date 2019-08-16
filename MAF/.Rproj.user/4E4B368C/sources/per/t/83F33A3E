@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552462557375.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "76|6|99|0|\n",
+    "hash" : "4134483733",
+    "id" : "83F33A3E",
+    "lastKnownWriteTime" : 1551782334,
+    "last_content_update" : 1552462589251,
+    "path" : "~/Documents/Nutstore/github/TCGA_BRCA/MAF/step2-maftools.R",
+    "project_path" : "step2-maftools.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

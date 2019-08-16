@@ -1,0 +1,8 @@
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/step1-get_TNBC_patients.R="92C4E568"
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/step2-get_TNBC_expression.R="85A849EB"
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/step3-heatmap_PCA.R="9A4E1392"
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/step4-TNBC_paired_DEG.R="340A9D6D"
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/step5-PIK3CA-DEG.R="FB11D827"
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/step6-tnbc-vs-nonTNBC-inTCGA.R="E899BE1F"
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/step7-math-vs-expression.R="AC7B6186"
+/Users/jmzeng/Documents/Nutstore/github/TCGA_BRCA/RNAseq/tnbc-vs-nonTNBC-inTCGA.R="B0793F31"

@@ -1,0 +1,12 @@
+rm(list = ls())
+require(maftools) 
+options(stringsAsFactors = F) 
+load(file = 'math.Rdata')
+load(file = 'BRCA_Maf_input.Rdata')
+
+laml@data$t_vaf = (laml@data$t_alt_count/laml@data$t_depth)
+mut=laml@data[,c("Hugo_Symbol","Chromosome","Start_Position","Tumor_Sample_Barcode","t_vaf")]
+mut$pos=paste(mut$Chromosome,mut$Start_Position,sep=':')
+
+
+
